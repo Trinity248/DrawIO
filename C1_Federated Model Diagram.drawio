@@ -158,7 +158,7 @@
         <mxCell id="TEopqQoxLhHz1hf2nDBn-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="Nhóm mô hình - Link chéo giữa 1 file bất kì và các file còn lại trong nhóm" vertex="1">
           <mxGeometry height="40" width="230" x="930" y="140" as="geometry" />
         </mxCell>
-        <mxCell id="TEopqQoxLhHz1hf2nDBn-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;strokeColor=#000000;" value="" vertex="1">
+        <mxCell id="TEopqQoxLhHz1hf2nDBn-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;" value="" vertex="1">
           <mxGeometry height="20" width="40" x="880" y="260" as="geometry" />
         </mxCell>
         <mxCell id="TEopqQoxLhHz1hf2nDBn-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="File chứa model" vertex="1">
