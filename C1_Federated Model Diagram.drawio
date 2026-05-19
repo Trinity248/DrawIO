@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="tyR3ZQhP4Eu5VgwBQBes">
-    <mxGraphModel dx="602" dy="334" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="410" dy="228" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -372,10 +372,10 @@
             <mxPoint x="100" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="V38tE1Ws2DvD1zi-VZIU-43" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B5739D;strokeColor=#000000;" value="&lt;div&gt;NỘI THẤT - THÁP 01&lt;/div&gt;&lt;div&gt;C1-KOK-ZZ-ZZ-M3-I-0001&lt;/div&gt;" vertex="1">
+        <mxCell id="V38tE1Ws2DvD1zi-VZIU-43" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B5739D;strokeColor=#000000;" value="&lt;div&gt;NỘI THẤT - THÁP 01&lt;/div&gt;&lt;div&gt;C1-KOK-T1-ZZ-M3-I-0001&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="240" x="120" y="1320" as="geometry" />
         </mxCell>
-        <mxCell id="V38tE1Ws2DvD1zi-VZIU-44" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#000000;" value="&lt;div&gt;NỘI THẤT - THÁP 02&lt;/div&gt;&lt;div&gt;C1-HBA-ZZ-ZZ-M3-I-0001&lt;/div&gt;" vertex="1">
+        <mxCell id="V38tE1Ws2DvD1zi-VZIU-44" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#000000;" value="&lt;div&gt;NỘI THẤT - THÁP 02&lt;/div&gt;&lt;div&gt;C1-HBA-T2-ZZ-M3-I-0001&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="240" x="120" y="1380" as="geometry" />
         </mxCell>
         <mxCell id="V38tE1Ws2DvD1zi-VZIU-95" edge="1" parent="1" source="V38tE1Ws2DvD1zi-VZIU-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=doubleBlock;endFill=1;startArrow=oval;startFill=1;strokeColor=#67AB9F;" target="V38tE1Ws2DvD1zi-VZIU-94">
