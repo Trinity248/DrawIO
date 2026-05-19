@@ -39,16 +39,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="TrzF5k7z9yYRjgXl_o8y-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE599;" value="&lt;div&gt;KIẾN TRÚC - HẦM ĐẾ&lt;/div&gt;C1-MHA-BP-ZZ-M3-A-0001" vertex="1">
+        <mxCell id="TrzF5k7z9yYRjgXl_o8y-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE599;" value="&lt;div&gt;KIẾN TRÚC - HẦM ĐẾ&lt;/div&gt;PMH.C1-MHA-BP-ZZ-M3-A-0001" vertex="1">
           <mxGeometry height="40" width="240" x="120" y="120" as="geometry" />
         </mxCell>
-        <mxCell id="TrzF5k7z9yYRjgXl_o8y-31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE599;" value="&lt;div&gt;KẾT CẤU - HẦM ĐẾ&lt;/div&gt;C1-MHA-BP-ZZ-M3-S-0001" vertex="1">
+        <mxCell id="TrzF5k7z9yYRjgXl_o8y-31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE599;" value="&lt;div&gt;KẾT CẤU - HẦM ĐẾ&lt;/div&gt;PMH.C1-MHA-BP-ZZ-M3-S-0001" vertex="1">
           <mxGeometry height="40" width="240" x="120" y="180" as="geometry" />
         </mxCell>
-        <mxCell id="TrzF5k7z9yYRjgXl_o8y-33" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE599;" value="&lt;div&gt;KIẾN TRÚC - THÁP 01&lt;/div&gt;C1-MHA-T1-ZZ-M3-A-0001" vertex="1">
+        <mxCell id="TrzF5k7z9yYRjgXl_o8y-33" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE599;" value="&lt;div&gt;KIẾN TRÚC - THÁP 01&lt;/div&gt;PMH.C1-MHA-T1-ZZ-M3-A-0001" vertex="1">
           <mxGeometry height="40" width="240" x="120" y="340" as="geometry" />
         </mxCell>
-        <mxCell id="TrzF5k7z9yYRjgXl_o8y-34" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE599;" value="&lt;div&gt;KẾT CẤU - THÁP 01&lt;/div&gt;C1-MHA-T1-ZZ-M3-S-0001" vertex="1">
+        <mxCell id="TrzF5k7z9yYRjgXl_o8y-34" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE599;" value="&lt;div&gt;KẾT CẤU - THÁP 01&lt;/div&gt;PMH.C1-MHA-T1-ZZ-M3-S-0001" vertex="1">
           <mxGeometry height="40" width="240" x="120" y="400" as="geometry" />
         </mxCell>
         <mxCell id="V38tE1Ws2DvD1zi-VZIU-9" edge="1" parent="1" source="TrzF5k7z9yYRjgXl_o8y-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#FFCCCC;endArrow=doubleBlock;endFill=1;startArrow=doubleBlock;startFill=1;">
@@ -237,13 +237,13 @@
             <mxPoint x="240" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TEopqQoxLhHz1hf2nDBn-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE599;" value="&lt;div&gt;KIẾN TRÚC - THÁP 02&lt;/div&gt;C1-MHA-T2-ZZ-M3-A-0001" vertex="1">
+        <mxCell id="TEopqQoxLhHz1hf2nDBn-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE599;" value="&lt;div&gt;KIẾN TRÚC - THÁP 02&lt;/div&gt;PMH.C1-MHA-T2-ZZ-M3-A-0001" vertex="1">
           <mxGeometry height="40" width="240" x="120" y="560" as="geometry" />
         </mxCell>
-        <mxCell id="TEopqQoxLhHz1hf2nDBn-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE599;" value="&lt;div&gt;KẾT CẤU - &lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;THÁP 02&lt;/span&gt;&lt;/div&gt;C1-MHA-T2-ZZ-M3-S-0001" vertex="1">
+        <mxCell id="TEopqQoxLhHz1hf2nDBn-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE599;" value="&lt;div&gt;KẾT CẤU - &lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;THÁP 02&lt;/span&gt;&lt;/div&gt;PMH.C1-MHA-T2-ZZ-M3-S-0001" vertex="1">
           <mxGeometry height="40" width="240" x="120" y="620" as="geometry" />
         </mxCell>
-        <mxCell id="TEopqQoxLhHz1hf2nDBn-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE599;" value="&lt;div&gt;MẶT DỰNG - &lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;THÁP 02&lt;/span&gt;&lt;/div&gt;C1-MHA-T2-ZZ-M3-A-0002" vertex="1">
+        <mxCell id="TEopqQoxLhHz1hf2nDBn-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE599;" value="&lt;div&gt;MẶT DỰNG - &lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;THÁP 02&lt;/span&gt;&lt;/div&gt;PMH.C1-MHA-T2-ZZ-M3-A-0002" vertex="1">
           <mxGeometry height="40" width="240" x="120" y="680" as="geometry" />
         </mxCell>
         <mxCell id="TEopqQoxLhHz1hf2nDBn-30" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
@@ -266,10 +266,10 @@
             <mxPoint x="240" y="540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TEopqQoxLhHz1hf2nDBn-32" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE599;" value="&lt;div&gt;MẶT DỰNG - HẦM ĐẾ&lt;/div&gt;C1-MHA-BP-ZZ-M3-A-0002" vertex="1">
+        <mxCell id="TEopqQoxLhHz1hf2nDBn-32" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE599;" value="&lt;div&gt;MẶT DỰNG - HẦM ĐẾ&lt;/div&gt;PMH.C1-MHA-BP-ZZ-M3-A-0002" vertex="1">
           <mxGeometry height="40" width="240" x="120" y="240" as="geometry" />
         </mxCell>
-        <mxCell id="TEopqQoxLhHz1hf2nDBn-33" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE599;" value="&lt;div&gt;MẶT DỰNG - THÁP 01&lt;/div&gt;C1-MHA-T1-ZZ-M3-A-0002" vertex="1">
+        <mxCell id="TEopqQoxLhHz1hf2nDBn-33" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE599;" value="&lt;div&gt;MẶT DỰNG - THÁP 01&lt;/div&gt;PMH.C1-MHA-T1-ZZ-M3-A-0002" vertex="1">
           <mxGeometry height="40" width="240" x="120" y="460" as="geometry" />
         </mxCell>
         <mxCell id="TEopqQoxLhHz1hf2nDBn-34" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE599;" value="&lt;div&gt;NHÓM PHÒNG -&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;THÁP 02&lt;/span&gt;&lt;/div&gt;C1-MHA-T2-ZZ-M3-A-0003" vertex="1">
@@ -405,7 +405,7 @@
         <mxCell id="V38tE1Ws2DvD1zi-VZIU-97" edge="1" parent="1" source="V38tE1Ws2DvD1zi-VZIU-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=doubleBlock;endFill=1;startArrow=oval;startFill=1;strokeColor=#67AB9F;" target="V38tE1Ws2DvD1zi-VZIU-94">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="V38tE1Ws2DvD1zi-VZIU-51" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE599;dashed=1;" value="&lt;div&gt;KIẾN TRÚC - TỔNG HỢP&lt;/div&gt;&lt;div&gt;C1-MHA-ZZ-ZZ-CM-A-0001&lt;/div&gt;" vertex="1">
+        <mxCell id="V38tE1Ws2DvD1zi-VZIU-51" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE599;dashed=1;" value="&lt;div&gt;KIẾN TRÚC - TỔNG HỢP&lt;/div&gt;&lt;div&gt;PMH.C1-MHA-ZZ-ZZ-CM-A-0001&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="240" x="120" y="20" as="geometry" />
         </mxCell>
         <mxCell id="V38tE1Ws2DvD1zi-VZIU-52" edge="1" parent="1" style="endArrow=doubleBlock;html=1;rounded=0;endFill=1;" value="">
