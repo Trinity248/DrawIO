@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="tyR3ZQhP4Eu5VgwBQBes">
-    <mxGraphModel dx="3535" dy="1858" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1178" dy="619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -25,11 +25,8 @@
         <mxCell id="V38tE1Ws2DvD1zi-VZIU-38" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D4E1F5;strokeColor=#000000;" value="&lt;div&gt;MEPF - HỆ NƯỚC PCCC&lt;/div&gt;&lt;div&gt;PMH.C1-JPR-ZZ-ZZ-M3-P-0002&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="240" x="120" y="1240" as="geometry" />
         </mxCell>
-        <mxCell id="V38tE1Ws2DvD1zi-VZIU-49" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EA6B66;strokeColor=#000000;" value="&lt;div&gt;MẶT DỰNG - THÁP 02&lt;/div&gt;&lt;div&gt;PMH.C1-MLT-T2-ZZ-M3-Y-0001&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="240" x="120" y="1580" as="geometry" />
-        </mxCell>
         <mxCell id="V38tE1Ws2DvD1zi-VZIU-50" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#000000;" value="&lt;div&gt;CẢNH QUAN - TỔNG THỂ&lt;/div&gt;&lt;div&gt;PMH.C1-LCO-ZZ-ZZ-M3-L-0001&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="240" x="120" y="1660" as="geometry" />
+          <mxGeometry height="40" width="240" x="120" y="1440" as="geometry" />
         </mxCell>
         <mxCell id="V38tE1Ws2DvD1zi-VZIU-66" edge="1" parent="1" source="TrzF5k7z9yYRjgXl_o8y-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#B5739D;endArrow=doubleBlock;endFill=1;startArrow=oval;startFill=1;" target="V38tE1Ws2DvD1zi-VZIU-65">
           <mxGeometry relative="1" as="geometry">
@@ -288,10 +285,10 @@
         <mxCell id="TEopqQoxLhHz1hf2nDBn-46" edge="1" parent="1" style="endArrow=doubleBlock;html=1;rounded=0;endFill=1;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <Array as="points">
-              <mxPoint x="80" y="1720" />
+              <mxPoint x="80" y="1500" />
               <mxPoint x="80" y="80" />
             </Array>
-            <mxPoint x="240" y="1720" as="sourcePoint" />
+            <mxPoint x="240" y="1500" as="sourcePoint" />
             <mxPoint x="240" y="80" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -299,10 +296,10 @@
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <Array as="points">
               <mxPoint x="400" y="80" />
-              <mxPoint x="400" y="1720" />
+              <mxPoint x="400" y="1500" />
             </Array>
             <mxPoint x="240" y="80" as="sourcePoint" />
-            <mxPoint x="240" y="1720" as="targetPoint" />
+            <mxPoint x="240" y="1500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="V38tE1Ws2DvD1zi-VZIU-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" value="" vertex="1">
@@ -390,43 +387,8 @@
         <mxCell id="V38tE1Ws2DvD1zi-VZIU-44" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#000000;" value="&lt;div&gt;NỘI THẤT - THÁP 02&lt;/div&gt;&lt;div&gt;PMH.C1-HBA-T2-ZZ-M3-I-0001&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="240" x="120" y="1380" as="geometry" />
         </mxCell>
-        <mxCell id="V38tE1Ws2DvD1zi-VZIU-46" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EA6B66;strokeColor=#000000;" value="&lt;div&gt;MẶT DỰNG - HẦM ĐẾ&lt;/div&gt;&lt;div&gt;PMH.C1-MLT-BP-ZZ-M3-Y-0001&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="240" x="120" y="1460" as="geometry" />
-        </mxCell>
-        <mxCell id="V38tE1Ws2DvD1zi-VZIU-95" edge="1" parent="1" source="V38tE1Ws2DvD1zi-VZIU-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=doubleBlock;endFill=1;startArrow=oval;startFill=1;strokeColor=#67AB9F;" target="V38tE1Ws2DvD1zi-VZIU-94">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="V38tE1Ws2DvD1zi-VZIU-48" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EA6B66;strokeColor=#000000;" value="&lt;div&gt;MẶT DỰNG - THÁP 01&lt;/div&gt;&lt;div&gt;PMH.C1-MLT-T1-ZZ-M3-Y-0001&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="240" x="120" y="1520" as="geometry" />
-        </mxCell>
-        <mxCell id="V38tE1Ws2DvD1zi-VZIU-96" edge="1" parent="1" source="V38tE1Ws2DvD1zi-VZIU-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=doubleBlock;endFill=1;startArrow=oval;startFill=1;strokeColor=#67AB9F;" target="V38tE1Ws2DvD1zi-VZIU-94">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="V38tE1Ws2DvD1zi-VZIU-97" edge="1" parent="1" source="V38tE1Ws2DvD1zi-VZIU-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=doubleBlock;endFill=1;startArrow=oval;startFill=1;strokeColor=#67AB9F;" target="V38tE1Ws2DvD1zi-VZIU-94">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="V38tE1Ws2DvD1zi-VZIU-51" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE599;dashed=1;" value="&lt;div&gt;KIẾN TRÚC - TỔNG HỢP&lt;/div&gt;&lt;div&gt;PMH.C1-MHA-ZZ-ZZ-CM-A-0001&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="240" x="120" y="20" as="geometry" />
-        </mxCell>
-        <mxCell id="V38tE1Ws2DvD1zi-VZIU-52" edge="1" parent="1" style="endArrow=doubleBlock;html=1;rounded=0;endFill=1;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <Array as="points">
-              <mxPoint x="100" y="1640" />
-              <mxPoint x="100" y="1440" />
-            </Array>
-            <mxPoint x="240" y="1640" as="sourcePoint" />
-            <mxPoint x="240" y="1440" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="V38tE1Ws2DvD1zi-VZIU-53" edge="1" parent="1" style="endArrow=doubleBlock;html=1;rounded=0;endFill=1;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <Array as="points">
-              <mxPoint x="380" y="1440" />
-              <mxPoint x="380" y="1640" />
-            </Array>
-            <mxPoint x="240" y="1440" as="sourcePoint" />
-            <mxPoint x="240" y="1640" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="V38tE1Ws2DvD1zi-VZIU-54" edge="1" parent="1" style="endArrow=doubleBlock;startArrow=doubleBlock;html=1;rounded=0;endFill=1;startFill=1;strokeColor=#7EA6E0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -489,24 +451,14 @@
             <mxPoint x="510" y="1500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="V38tE1Ws2DvD1zi-VZIU-61" edge="1" parent="1" source="V38tE1Ws2DvD1zi-VZIU-44" style="endArrow=doubleBlock;startArrow=doubleBlock;html=1;rounded=0;endFill=1;startFill=1;strokeColor=#7EA6E0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" value="">
+        <mxCell id="V38tE1Ws2DvD1zi-VZIU-61" edge="1" parent="1" source="V38tE1Ws2DvD1zi-VZIU-44" style="endArrow=doubleBlock;startArrow=doubleBlock;html=1;rounded=0;endFill=1;startFill=1;strokeColor=#7EA6E0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" target="V38tE1Ws2DvD1zi-VZIU-50" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <Array as="points">
               <mxPoint x="420" y="1390" />
-              <mxPoint x="420" y="1460" />
+              <mxPoint x="420" y="1450" />
             </Array>
             <mxPoint x="360" y="1580" as="sourcePoint" />
             <mxPoint x="380" y="1460" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="V38tE1Ws2DvD1zi-VZIU-62" edge="1" parent="1" style="endArrow=doubleBlock;startArrow=doubleBlock;html=1;rounded=0;endFill=1;startFill=1;strokeColor=#7EA6E0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" target="V38tE1Ws2DvD1zi-VZIU-50" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <Array as="points">
-              <mxPoint x="420" y="1460" />
-              <mxPoint x="420" y="1670" />
-            </Array>
-            <mxPoint x="380" y="1460" as="sourcePoint" />
-            <mxPoint x="380" y="1780" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="V38tE1Ws2DvD1zi-VZIU-63" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FFCCCC;endArrow=doubleBlock;endFill=1;startArrow=doubleBlock;startFill=1;">
@@ -592,24 +544,14 @@
             <mxPoint x="360" y="1460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="V38tE1Ws2DvD1zi-VZIU-74" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#B5739D;endArrow=oval;endFill=1;startArrow=oval;startFill=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="V38tE1Ws2DvD1zi-VZIU-44">
+        <mxCell id="V38tE1Ws2DvD1zi-VZIU-74" edge="1" parent="1" source="V38tE1Ws2DvD1zi-VZIU-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#B5739D;endArrow=oval;endFill=1;startArrow=oval;startFill=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="V38tE1Ws2DvD1zi-VZIU-44">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="460" y="1480" />
+              <mxPoint x="460" y="1460" />
               <mxPoint x="460" y="1400" />
             </Array>
             <mxPoint x="380" y="1480" as="sourcePoint" />
             <mxPoint x="360" y="1580" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="V38tE1Ws2DvD1zi-VZIU-75" edge="1" parent="1" source="V38tE1Ws2DvD1zi-VZIU-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#B5739D;endArrow=oval;endFill=1;startArrow=oval;startFill=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="460" y="1680" />
-              <mxPoint x="460" y="1480" />
-            </Array>
-            <mxPoint x="380" y="1940" as="sourcePoint" />
-            <mxPoint x="380" y="1480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="V38tE1Ws2DvD1zi-VZIU-84" edge="1" parent="1" source="V38tE1Ws2DvD1zi-VZIU-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=doubleBlock;endFill=1;strokeColor=#67AB9F;startArrow=oval;startFill=1;" target="V38tE1Ws2DvD1zi-VZIU-81">
@@ -643,9 +585,6 @@
         </mxCell>
         <mxCell id="V38tE1Ws2DvD1zi-VZIU-87" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#000000;dashed=1;" value="&lt;div&gt;MEPF - TỔNG HỢP&lt;/div&gt;&lt;div&gt;PMH.C1-JPR-ZZ-ZZ-CM-Z-0001&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="240" x="520" y="1120" as="geometry" />
-        </mxCell>
-        <mxCell id="V38tE1Ws2DvD1zi-VZIU-94" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EA6B66;strokeColor=#000000;dashed=1;" value="&lt;div&gt;MẶT DỰNG - TỔNG HỢP&lt;/div&gt;&lt;div&gt;PMH.C1-MLT-ZZ-ZZ-CM-Y-0001&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="240" x="520" y="1520" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
