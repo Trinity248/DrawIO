@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="tyR3ZQhP4Eu5VgwBQBes">
-    <mxGraphModel dx="857" dy="476" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1488" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,16 +13,16 @@
         <mxCell id="V38tE1Ws2DvD1zi-VZIU-77" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#000000;fontSize=10;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;" value="&lt;div&gt;KẾT CẤU - THÁP 02&lt;/div&gt;&lt;div&gt;STRUCTURE - TOWER 02&lt;/div&gt;&lt;div&gt;PMH.C1-ACO-T2-ZZ-M3-S-0001&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="240" x="120" y="960" as="geometry" />
         </mxCell>
-        <mxCell id="V38tE1Ws2DvD1zi-VZIU-33" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#000000;fontSize=10;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;" value="&lt;div&gt;MEPF - HỆ ĐIỆN&lt;/div&gt;&lt;div&gt;MEPF - ELECTRICAL&lt;/div&gt;&lt;div&gt;PMH.C1-JPR-ZZ-ZZ-M3-E-0001&lt;/div&gt;" vertex="1">
+        <mxCell id="V38tE1Ws2DvD1zi-VZIU-33" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#000000;fontSize=10;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;" value="&lt;div&gt;MEPF - HỆ ĐIỆN&lt;/div&gt;&lt;div&gt;MEPF - ELECTRICAL&lt;/div&gt;&lt;div&gt;PMH.C1-JRP-ZZ-ZZ-M3-E-0001&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="240" x="120" y="1060" as="geometry" />
         </mxCell>
-        <mxCell id="V38tE1Ws2DvD1zi-VZIU-34" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D4E1F5;strokeColor=#000000;fontSize=10;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;" value="&lt;div&gt;MEPF - HỆ CƠ&lt;/div&gt;&lt;div&gt;MEPF - MECHANICAL&lt;/div&gt;&lt;div&gt;PMH.C1-JPR-ZZ-ZZ-M3-M-0001&lt;/div&gt;" vertex="1">
+        <mxCell id="V38tE1Ws2DvD1zi-VZIU-34" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D4E1F5;strokeColor=#000000;fontSize=10;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;" value="&lt;div&gt;MEPF - HỆ CƠ&lt;/div&gt;&lt;div&gt;MEPF - MECHANICAL&lt;/div&gt;&lt;div&gt;PMH.C1-JRP-ZZ-ZZ-M3-M-0001&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="240" x="120" y="1120" as="geometry" />
         </mxCell>
-        <mxCell id="V38tE1Ws2DvD1zi-VZIU-35" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D4E1F5;strokeColor=#000000;fontSize=10;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;" value="&lt;div&gt;MEPF - HỆ NƯỚC&lt;/div&gt;&lt;div&gt;MEPF - PLUMBING&lt;/div&gt;&lt;div&gt;PMH.C1-JPR-ZZ-ZZ-M3-P-0001&lt;/div&gt;" vertex="1">
+        <mxCell id="V38tE1Ws2DvD1zi-VZIU-35" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D4E1F5;strokeColor=#000000;fontSize=10;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;" value="&lt;div&gt;MEPF - HỆ NƯỚC&lt;/div&gt;&lt;div&gt;MEPF - PLUMBING&lt;/div&gt;&lt;div&gt;PMH.C1-JRP-ZZ-ZZ-M3-P-0001&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="240" x="120" y="1180" as="geometry" />
         </mxCell>
-        <mxCell id="V38tE1Ws2DvD1zi-VZIU-38" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D4E1F5;strokeColor=#000000;fontSize=10;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;" value="&lt;div&gt;MEPF - HỆ NƯỚC PCCC&lt;/div&gt;&lt;div&gt;MEPF - FIRE FIGHTING&lt;/div&gt;&lt;div&gt;PMH.C1-JPR-ZZ-ZZ-M3-P-0002&lt;/div&gt;" vertex="1">
+        <mxCell id="V38tE1Ws2DvD1zi-VZIU-38" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D4E1F5;strokeColor=#000000;fontSize=10;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;" value="&lt;div&gt;MEPF - HỆ NƯỚC PCCC&lt;/div&gt;&lt;div&gt;MEPF - FIRE FIGHTING&lt;/div&gt;&lt;div&gt;PMH.C1-JRP-ZZ-ZZ-M3-P-0002&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="240" x="120" y="1240" as="geometry" />
         </mxCell>
         <mxCell id="V38tE1Ws2DvD1zi-VZIU-50" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#000000;fontSize=10;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;" value="&lt;div&gt;CẢNH QUAN - TỔNG THỂ&lt;/div&gt;&lt;div&gt;LANDSCAPE - OVERALL&lt;/div&gt;&lt;div&gt;PMH.C1-LCO-ZZ-ZZ-M3-L-0001&lt;/div&gt;" vertex="1">
@@ -583,7 +583,7 @@
         <mxCell id="V38tE1Ws2DvD1zi-VZIU-81" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#000000;dashed=1;fontSize=10;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;" value="&lt;div&gt;KẾT CẤU - TỔNG HỢP&lt;/div&gt;&lt;div&gt;STRUCTURE - COMBINE&lt;/div&gt;&lt;div&gt;PMH.C1-ACO-ZZ-ZZ-CM-S-0001&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="240" x="520" y="900" as="geometry" />
         </mxCell>
-        <mxCell id="V38tE1Ws2DvD1zi-VZIU-87" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#000000;dashed=1;fontSize=10;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;" value="&lt;div&gt;MEPF - TỔNG HỢP&lt;/div&gt;&lt;div&gt;MEPF - COMBINE&lt;/div&gt;&lt;div&gt;PMH.C1-JPR-ZZ-ZZ-CM-Z-0001&lt;/div&gt;" vertex="1">
+        <mxCell id="V38tE1Ws2DvD1zi-VZIU-87" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#000000;dashed=1;fontSize=10;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;" value="&lt;div&gt;MEPF - TỔNG HỢP&lt;/div&gt;&lt;div&gt;MEPF - COMBINE&lt;/div&gt;&lt;div&gt;PMH.C1-JRP-ZZ-ZZ-CM-Z-0001&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="240" x="520" y="1120" as="geometry" />
         </mxCell>
       </root>
