@@ -1,13 +1,13 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="tyR3ZQhP4Eu5VgwBQBes">
-    <mxGraphModel dx="1768" dy="981" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1010" dy="561" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="V38tE1Ws2DvD1zi-VZIU-23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#000000;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=10;" value="KẾT CẤU&lt;div&gt;STRUCTURE&lt;br&gt;&lt;div&gt;ACO_P43025_C1_S_ZZ_BD_RVT_24&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="240" x="120" y="440" as="geometry" />
         </mxCell>
-        <mxCell id="QCfcZdV4B0O6WAvThhvp-5" edge="1" parent="1" source="V38tE1Ws2DvD1zi-VZIU-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#67AB9F;startArrow=oval;startFill=1;endArrow=doubleBlock;endFill=1;">
+        <mxCell id="QCfcZdV4B0O6WAvThhvp-5" edge="1" parent="1" source="V38tE1Ws2DvD1zi-VZIU-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#67AB9F;startArrow=doubleBlock;startFill=1;endArrow=doubleBlock;endFill=1;">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="450" y="460" />
