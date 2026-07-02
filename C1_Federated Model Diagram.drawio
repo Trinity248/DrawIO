@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="tyR3ZQhP4Eu5VgwBQBes">
-    <mxGraphModel dx="786" dy="417" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="764" dy="406" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -585,6 +585,26 @@
         </mxCell>
         <mxCell id="V38tE1Ws2DvD1zi-VZIU-87" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#000000;dashed=1;fontSize=10;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;" value="&lt;div&gt;MEPF - TỔNG HỢP&lt;/div&gt;&lt;div&gt;MEPF - COMBINE&lt;/div&gt;&lt;div&gt;PMH.C1-JRP-ZZ-ZZ-CM-Z-1000&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="240" x="520" y="1120" as="geometry" />
+        </mxCell>
+        <mxCell id="_yStNyIaD4ONdjTcpqS8-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE599;fontFamily=Montserrat;fontSource=https://fonts.googleapis.com/css?family=Montserrat;fontSize=10;" value="&lt;div&gt;CẦU ĐI BỘ SANG TÂM ANH&lt;/div&gt;&lt;div&gt;CONNECTION BRIDGE TO TAM ANH&lt;/div&gt;PMH.C1-MHA-B1-ZZ-R24-A-1000" vertex="1">
+          <mxGeometry height="40" width="240" x="520" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="_yStNyIaD4ONdjTcpqS8-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE599;fontFamily=Montserrat;fontSource=https://fonts.googleapis.com/css?family=Montserrat;fontSize=10;" value="&lt;div&gt;CẦU ĐI BỘ SANG CRESENT MALL&lt;/div&gt;&lt;div&gt;&lt;div&gt;CONNECTION BRIDGE TO CRESENT MALL&lt;/div&gt;&lt;/div&gt;PMH.C1-MHA-B2-ZZ-R24-A-1000" vertex="1">
+          <mxGeometry height="40" width="240" x="520" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="_yStNyIaD4ONdjTcpqS8-4" edge="1" parent="1" source="_yStNyIaD4ONdjTcpqS8-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;startArrow=oval;startFill=1;endArrow=doubleBlock;endFill=1;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="480" y="320" />
+              <mxPoint x="480" y="280" />
+            </Array>
+            <mxPoint x="400" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_yStNyIaD4ONdjTcpqS8-3" edge="1" parent="1" source="_yStNyIaD4ONdjTcpqS8-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;startArrow=oval;startFill=1;endArrow=doubleBlock;endFill=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="259.94594594594594" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
