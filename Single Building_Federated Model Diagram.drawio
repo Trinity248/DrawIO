@@ -16,7 +16,7 @@
         <mxCell id="TrzF5k7z9yYRjgXl_o8y-34" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE599;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=10;" value="&lt;div&gt;KIẾN TRÚC - GÓI BẢN VẼ XX&lt;/div&gt;&lt;div&gt;ARCHITECTURE - DRAWING SET XX&lt;/div&gt;XXX.XX-MHA-ZZ-ZZ-R24-A-X000" vertex="1">
           <mxGeometry height="40" width="240" x="120" y="360" as="geometry" />
         </mxCell>
-        <mxCell id="V38tE1Ws2DvD1zi-VZIU-9" edge="1" parent="1" source="TrzF5k7z9yYRjgXl_o8y-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#FFCCCC;endArrow=doubleBlock;endFill=1;startArrow=doubleBlock;startFill=1;">
+        <mxCell id="V38tE1Ws2DvD1zi-VZIU-9" edge="1" parent="1" source="TrzF5k7z9yYRjgXl_o8y-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#FFCCCC;endArrow=classic;endFill=1;startArrow=classic;startFill=1;">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="480" y="140" />
@@ -31,7 +31,7 @@
         <mxCell id="TrzF5k7z9yYRjgXl_o8y-91" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE599;dashed=1;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=10;" value="&lt;div&gt;CAO ĐỘ &amp;amp; TRỤC - TỔNG THỂ&lt;/div&gt;&lt;div&gt;LEVELS &amp;amp; GRIDS - OVERALL&lt;/div&gt;&lt;div&gt;XXX.XX-MHA-ZZ-ZZ-R24-A-0000&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="240" x="520" y="20" as="geometry" />
         </mxCell>
-        <mxCell id="V38tE1Ws2DvD1zi-VZIU-1" edge="1" parent="1" source="TrzF5k7z9yYRjgXl_o8y-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#7EA6E0;endArrow=doubleBlock;endFill=1;startArrow=oval;startFill=1;">
+        <mxCell id="V38tE1Ws2DvD1zi-VZIU-1" edge="1" parent="1" source="TrzF5k7z9yYRjgXl_o8y-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#7EA6E0;endArrow=classic;endFill=1;startArrow=oval;startFill=1;">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="420" y="40" />
