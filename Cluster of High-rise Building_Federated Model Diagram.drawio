@@ -1,51 +1,19 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="tyR3ZQhP4Eu5VgwBQBes">
-    <mxGraphModel dx="1414" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1414" dy="2405" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="V38tE1Ws2DvD1zi-VZIU-23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#000000;fontSize=10;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;" value="&lt;div&gt;KẾT CẤU - HẦM &amp;amp; ĐẾ&lt;/div&gt;&lt;div&gt;STRUCTURE - BASEMENT &amp;amp; PODIUM&lt;/div&gt;&lt;div&gt;PMH.C1-ACO-BP-ZZ-R24-S-1000&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="240" x="120" y="840" as="geometry" />
-        </mxCell>
-        <mxCell id="V38tE1Ws2DvD1zi-VZIU-76" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#000000;fontSize=10;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;" value="&lt;div&gt;KẾT CẤU - THÁP 01&lt;/div&gt;&lt;div&gt;STRUCTURE - TOWER 01&lt;/div&gt;&lt;div&gt;PMH.C1-ACO-T1-ZZ-R24-S-1000&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="240" x="120" y="900" as="geometry" />
-        </mxCell>
-        <mxCell id="V38tE1Ws2DvD1zi-VZIU-77" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#000000;fontSize=10;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;" value="&lt;div&gt;KẾT CẤU - THÁP 02&lt;/div&gt;&lt;div&gt;STRUCTURE - TOWER 02&lt;/div&gt;&lt;div&gt;PMH.C1-ACO-T2-ZZ-R24-S-1000&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="240" x="120" y="960" as="geometry" />
-        </mxCell>
-        <mxCell id="V38tE1Ws2DvD1zi-VZIU-33" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#000000;fontSize=10;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;" value="&lt;div&gt;MEPF - HỆ ĐIỆN&lt;/div&gt;&lt;div&gt;MEPF - ELECTRICAL&lt;/div&gt;&lt;div&gt;PMH.C1-JRP-ZZ-ZZ-R24-E-1000&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="240" x="120" y="1060" as="geometry" />
-        </mxCell>
-        <mxCell id="V38tE1Ws2DvD1zi-VZIU-34" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D4E1F5;strokeColor=#000000;fontSize=10;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;" value="&lt;div&gt;MEPF - HỆ CƠ&lt;/div&gt;&lt;div&gt;MEPF - MECHANICAL&lt;/div&gt;&lt;div&gt;PMH.C1-JRP-ZZ-ZZ-R24-M-1000&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="240" x="120" y="1120" as="geometry" />
-        </mxCell>
-        <mxCell id="V38tE1Ws2DvD1zi-VZIU-35" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D4E1F5;strokeColor=#000000;fontSize=10;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;" value="&lt;div&gt;MEPF - HỆ NƯỚC&lt;/div&gt;&lt;div&gt;MEPF - PLUMBING&lt;/div&gt;&lt;div&gt;PMH.C1-JRP-ZZ-ZZ-R24-P-1000&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="240" x="120" y="1180" as="geometry" />
-        </mxCell>
-        <mxCell id="V38tE1Ws2DvD1zi-VZIU-38" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D4E1F5;strokeColor=#000000;fontSize=10;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;" value="&lt;div&gt;MEPF - HỆ NƯỚC PCCC&lt;/div&gt;&lt;div&gt;MEPF - FIRE FIGHTING&lt;/div&gt;&lt;div&gt;PMH.C1-JRP-ZZ-ZZ-R24-F-1000&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="240" x="120" y="1240" as="geometry" />
-        </mxCell>
-        <mxCell id="V38tE1Ws2DvD1zi-VZIU-50" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#000000;fontSize=10;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;" value="&lt;div&gt;CẢNH QUAN - TỔNG THỂ&lt;/div&gt;&lt;div&gt;LANDSCAPE - OVERALL&lt;/div&gt;&lt;div&gt;PMH.C1-LCO-ZZ-ZZ-R24-L-1000&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="240" x="120" y="1440" as="geometry" />
-        </mxCell>
-        <mxCell id="V38tE1Ws2DvD1zi-VZIU-66" edge="1" parent="1" source="TrzF5k7z9yYRjgXl_o8y-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#B5739D;endArrow=doubleBlock;endFill=1;startArrow=oval;startFill=1;" target="V38tE1Ws2DvD1zi-VZIU-65">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="460" y="150" />
-              <mxPoint x="460" y="200" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="TrzF5k7z9yYRjgXl_o8y-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE599;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=10;" value="&lt;div&gt;KIẾN TRÚC - HẦM&lt;/div&gt;&lt;div&gt;ARCHITECTURE - BASEMENT&lt;/div&gt;PMH.C1-MHA-BA-ZZ-R24-A-1000" vertex="1">
+        <mxCell id="TrzF5k7z9yYRjgXl_o8y-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE599;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=10;" value="&lt;div&gt;KIẾN TRÚC - KHU VỰC 01 - GÓI BẢN VẼ 01&lt;/div&gt;&lt;div&gt;ARCHITECTURE - ZONE 01 - DRAWING SET 01&lt;/div&gt;XXX.XX-MHA-01-ZZ-R24-A-1000" vertex="1">
           <mxGeometry height="40" width="240" x="120" y="120" as="geometry" />
         </mxCell>
-        <mxCell id="TrzF5k7z9yYRjgXl_o8y-31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE599;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=10;" value="&lt;div&gt;KIẾN TRÚC - ĐẾ&lt;/div&gt;&lt;div&gt;ARCHITECTURE - PODIUM&lt;/div&gt;PMH.C1-MHA-PO-ZZ-R24-A-1000" vertex="1">
+        <mxCell id="TrzF5k7z9yYRjgXl_o8y-31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE599;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=10;" value="&lt;div&gt;KIẾN TRÚC - KHU VỰC 01 - GÓI BẢN VẼ 02&lt;/div&gt;&lt;div&gt;ARCHITECTURE - ZONE 01 - DRAWING SET 02&lt;/div&gt;XXX.XX-MHA-01-ZZ-R24-A-2000" vertex="1">
           <mxGeometry height="40" width="240" x="120" y="180" as="geometry" />
         </mxCell>
-        <mxCell id="TrzF5k7z9yYRjgXl_o8y-33" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE599;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=10;" value="&lt;div&gt;KIẾN TRÚC - THÁP 01&lt;/div&gt;&lt;div&gt;ARCHITECTURE - TOWER 01&lt;/div&gt;PMH.C1-MHA-T1-ZZ-R24-A-1000" vertex="1">
+        <mxCell id="TrzF5k7z9yYRjgXl_o8y-33" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE599;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=10;" value="&lt;div&gt;KIẾN TRÚC - KHU VỰC 02 - GÓI BẢN VẼ 01&lt;/div&gt;&lt;div&gt;ARCHITECTURE - ZONE 02 - DRAWING SET 01&lt;/div&gt;XXX.XX-MHA-02-ZZ-R24-A-1000" vertex="1">
           <mxGeometry height="40" width="240" x="120" y="340" as="geometry" />
         </mxCell>
-        <mxCell id="TrzF5k7z9yYRjgXl_o8y-34" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE599;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=10;" value="&lt;div&gt;KIẾN TRÚC - THÁP 01&lt;/div&gt;&lt;div&gt;ARCHITECTURE - TOWER 01&lt;/div&gt;PMH.C1-MHA-T1-ZZ-R24-A-2000" vertex="1">
+        <mxCell id="TrzF5k7z9yYRjgXl_o8y-34" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE599;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=10;" value="&lt;div&gt;KIẾN TRÚC - KHU VỰC 02 - GÓI BẢN VẼ 02&lt;/div&gt;&lt;div&gt;ARCHITECTURE -&amp;nbsp;ZONE 02 - DRAWING SET 02&lt;/div&gt;XXX.XX-MHA-02-ZZ-R24-A-2000" vertex="1">
           <mxGeometry height="40" width="240" x="120" y="400" as="geometry" />
         </mxCell>
         <mxCell id="V38tE1Ws2DvD1zi-VZIU-9" edge="1" parent="1" source="TrzF5k7z9yYRjgXl_o8y-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#FFCCCC;endArrow=doubleBlock;endFill=1;startArrow=doubleBlock;startFill=1;">
@@ -57,10 +25,10 @@
             <mxPoint x="380" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TrzF5k7z9yYRjgXl_o8y-90" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE599;dashed=1;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=10;" value="&lt;div&gt;CẢNH QUAN NGOẠI KHU &amp;amp; ĐƯỜNG BỘ&lt;/div&gt;&lt;div&gt;EXTERNAL LANDSCAPE &amp;amp; ROAD&lt;/div&gt;&lt;div&gt;PMH.C1-MHA-ZZ-ZZ-R24-L-0000&lt;/div&gt;" vertex="1">
+        <mxCell id="TrzF5k7z9yYRjgXl_o8y-90" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE599;dashed=1;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=10;" value="&lt;div&gt;CẢNH QUAN NGOẠI KHU &amp;amp; ĐƯỜNG BỘ&lt;/div&gt;&lt;div&gt;EXTERNAL LANDSCAPE &amp;amp; ROAD&lt;/div&gt;&lt;div&gt;XXX.XX-MHA-ZZ-ZZ-R24-L-0000&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="240" x="520" y="120" as="geometry" />
         </mxCell>
-        <mxCell id="TrzF5k7z9yYRjgXl_o8y-91" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE599;dashed=1;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=10;" value="&lt;div&gt;CAO ĐỘ &amp;amp; TRỤC - TỔNG THỂ&lt;/div&gt;&lt;div&gt;LEVELS &amp;amp; GRIDS - OVERALL&lt;/div&gt;&lt;div&gt;PMH.C1-MHA-ZZ-ZZ-R24-A-0000&lt;/div&gt;" vertex="1">
+        <mxCell id="TrzF5k7z9yYRjgXl_o8y-91" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE599;dashed=1;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=10;" value="&lt;div&gt;CAO ĐỘ &amp;amp; TRỤC - TỔNG THỂ&lt;/div&gt;&lt;div&gt;LEVELS &amp;amp; GRIDS - OVERALL&lt;/div&gt;&lt;div&gt;XXX.XX-MHA-ZZ-ZZ-R24-A-0000&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="240" x="520" y="20" as="geometry" />
         </mxCell>
         <mxCell id="V38tE1Ws2DvD1zi-VZIU-1" edge="1" parent="1" source="TrzF5k7z9yYRjgXl_o8y-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#7EA6E0;endArrow=doubleBlock;endFill=1;startArrow=oval;startFill=1;">
@@ -191,21 +159,21 @@
         <mxCell id="TEopqQoxLhHz1hf2nDBn-20" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <Array as="points">
-              <mxPoint x="100" y="300" />
-              <mxPoint x="100" y="100" />
+              <mxPoint x="500" y="620" />
+              <mxPoint x="500" />
             </Array>
-            <mxPoint x="240" y="300" as="sourcePoint" />
-            <mxPoint x="240" y="100" as="targetPoint" />
+            <mxPoint x="640" y="620" as="sourcePoint" />
+            <mxPoint x="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TEopqQoxLhHz1hf2nDBn-21" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <Array as="points">
-              <mxPoint x="380" y="100" />
-              <mxPoint x="380" y="300" />
+              <mxPoint x="780" />
+              <mxPoint x="780" y="620" />
             </Array>
-            <mxPoint x="240" y="100" as="sourcePoint" />
-            <mxPoint x="240" y="300" as="targetPoint" />
+            <mxPoint x="640" as="sourcePoint" />
+            <mxPoint x="640" y="620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TEopqQoxLhHz1hf2nDBn-22" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
@@ -228,61 +196,57 @@
             <mxPoint x="240" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TEopqQoxLhHz1hf2nDBn-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE599;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=10;" value="&lt;div&gt;KIẾN TRÚC - THÁP 02&lt;/div&gt;&lt;div&gt;ARCHITECTURE - TOWER 02&lt;/div&gt;PMH.C1-MHA-T2-ZZ-R24-A-1000" vertex="1">
+        <mxCell id="TEopqQoxLhHz1hf2nDBn-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE599;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=10;" value="&lt;div&gt;KIẾN TRÚC - KHU VỰC 03- GÓI BẢN VẼ 01&lt;/div&gt;&lt;div&gt;ARCHITECTURE - ZONE 03 - DRAWING SET 03&lt;/div&gt;XXX.XX-MHA-03-ZZ-R24-A-1000" vertex="1">
           <mxGeometry height="40" width="240" x="120" y="560" as="geometry" />
         </mxCell>
-        <mxCell id="TEopqQoxLhHz1hf2nDBn-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE599;fontSize=10;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;" value="&lt;div&gt;KIẾN TRÚC - &lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;THÁP 02&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;ARCHITECTURE - TOWER 02&lt;/span&gt;&lt;/div&gt;PMH.C1-MHA-T2-ZZ-R24-A-2000" vertex="1">
+        <mxCell id="TEopqQoxLhHz1hf2nDBn-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE599;fontSize=10;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;" value="&lt;div&gt;KIẾN TRÚC - KHU VỰC 03 - GÓI BẢN VẼ 02&lt;/div&gt;&lt;div&gt;ARCHITECTURE - ZONE 03 - DRAWING SET 02&lt;/div&gt;XXX.XX-MHA-03-ZZ-R24-A-2000" vertex="1">
           <mxGeometry height="40" width="240" x="120" y="620" as="geometry" />
         </mxCell>
-        <mxCell id="TEopqQoxLhHz1hf2nDBn-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE599;fontSize=10;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;" value="&lt;div&gt;MẶT DỰNG - &lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;THÁP 02&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;FACADE - TOWER 02&lt;/span&gt;&lt;/div&gt;PMH.C1-MHA-T2-ZZ-R24-A-3000" vertex="1">
+        <mxCell id="TEopqQoxLhHz1hf2nDBn-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE599;fontSize=10;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;" value="&lt;div&gt;KIẾN TRÚC - KHU VỰC 03 - GÓI BẢN VẼ 03&lt;/div&gt;&lt;div&gt;ARCHITECTURE - ZONE 03 - DRAWING SET 03&lt;/div&gt;XXX.XX-MHA-03-ZZ-R24-A-3000" vertex="1">
           <mxGeometry height="40" width="240" x="120" y="680" as="geometry" />
         </mxCell>
         <mxCell id="TEopqQoxLhHz1hf2nDBn-30" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <Array as="points">
               <mxPoint x="380" y="540" />
-              <mxPoint x="380" y="800" />
+              <mxPoint x="380" y="740" />
             </Array>
             <mxPoint x="240" y="540" as="sourcePoint" />
-            <mxPoint x="240" y="800" as="targetPoint" />
+            <mxPoint x="240" y="740" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TEopqQoxLhHz1hf2nDBn-31" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <Array as="points">
-              <mxPoint x="100" y="800" />
+              <mxPoint x="100" y="740" />
               <mxPoint x="100" y="540" />
             </Array>
-            <mxPoint x="240" y="800" as="sourcePoint" />
+            <mxPoint x="240" y="740" as="sourcePoint" />
             <mxPoint x="240" y="540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TEopqQoxLhHz1hf2nDBn-32" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE599;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=10;" value="&lt;div&gt;MẶT DỰNG - ĐẾ&lt;/div&gt;&lt;div&gt;FACADE - PODIUM&lt;/div&gt;PMH.C1-MHA-PO-ZZ-R24-A-3000" vertex="1">
+        <mxCell id="TEopqQoxLhHz1hf2nDBn-32" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE599;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=10;" value="&lt;div&gt;KIẾN TRÚC - KHU VỰC 01 - GÓI BẢN VẼ 03&lt;/div&gt;&lt;div&gt;ARCHITECTURE - ZONE 01 - DRAWING SET 03&lt;/div&gt;XXX.XX-MHA-01-ZZ-R24-A-3000" vertex="1">
           <mxGeometry height="40" width="240" x="120" y="240" as="geometry" />
         </mxCell>
-        <mxCell id="TEopqQoxLhHz1hf2nDBn-33" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE599;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=10;" value="&lt;div&gt;MẶT DỰNG - THÁP 01&lt;/div&gt;&lt;div&gt;FACADE - TOWER 01&lt;/div&gt;PMH.C1-MHA-T1-ZZ-R24-A-3000" vertex="1">
+        <mxCell id="TEopqQoxLhHz1hf2nDBn-33" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE599;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=10;" value="&lt;div&gt;KIẾN TRÚC - KHU VỰC 02 - GÓI BẢN VẼ 03&lt;/div&gt;&lt;div&gt;ARCHITECTURE - ZONE 02 - DRAWING SET 03&lt;/div&gt;XXX.XX-MHA-02-ZZ-R24-A-3000" vertex="1">
           <mxGeometry height="40" width="240" x="120" y="460" as="geometry" />
         </mxCell>
-        <mxCell id="TEopqQoxLhHz1hf2nDBn-34" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE599;fontSize=10;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;" value="&lt;div&gt;NHÓM PHÒNG -&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;THÁP 02&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;GUEST ROOM GROUP - TOWER 02&lt;/span&gt;&lt;/div&gt;PMH.C1-MHA-T2-ZZ-R24-A-4000" vertex="1">
-          <mxGeometry height="40" width="240" x="120" y="740" as="geometry" />
-        </mxCell>
-        <mxCell id="TEopqQoxLhHz1hf2nDBn-45" edge="1" parent="1" style="endArrow=doubleBlock;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#B5739D;endFill=1;startArrow=oval;startFill=1;" target="V38tE1Ws2DvD1zi-VZIU-51" value="">
+        <mxCell id="TEopqQoxLhHz1hf2nDBn-45" edge="1" parent="1" style="endArrow=doubleBlock;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#B5739D;endFill=1;startArrow=oval;startFill=1;dashed=1;" target="V38tE1Ws2DvD1zi-VZIU-51" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <Array as="points">
-              <mxPoint x="60" y="120" />
-              <mxPoint x="60" y="40" />
+              <mxPoint x="440" y="200" />
             </Array>
-            <mxPoint x="100" y="120" as="sourcePoint" />
+            <mxPoint x="380" y="200" as="sourcePoint" />
             <mxPoint x="630" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TEopqQoxLhHz1hf2nDBn-46" edge="1" parent="1" style="endArrow=doubleBlock;html=1;rounded=0;endFill=1;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <Array as="points">
-              <mxPoint x="80" y="1500" />
+              <mxPoint x="80" y="760" />
               <mxPoint x="80" y="80" />
             </Array>
-            <mxPoint x="240" y="1500" as="sourcePoint" />
+            <mxPoint x="240" y="760" as="sourcePoint" />
             <mxPoint x="240" y="80" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -290,10 +254,10 @@
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <Array as="points">
               <mxPoint x="400" y="80" />
-              <mxPoint x="400" y="1500" />
+              <mxPoint x="400" y="760" />
             </Array>
             <mxPoint x="240" y="80" as="sourcePoint" />
-            <mxPoint x="240" y="1500" as="targetPoint" />
+            <mxPoint x="240" y="760" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="V38tE1Ws2DvD1zi-VZIU-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" value="" vertex="1">
@@ -308,69 +272,8 @@
         <mxCell id="V38tE1Ws2DvD1zi-VZIU-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EA6B66;strokeColor=none;" value="" vertex="1">
           <mxGeometry height="20" width="40" x="880" y="480" as="geometry" />
         </mxCell>
-        <mxCell id="V38tE1Ws2DvD1zi-VZIU-82" edge="1" parent="1" source="V38tE1Ws2DvD1zi-VZIU-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#67AB9F;startArrow=oval;startFill=1;endArrow=doubleBlock;endFill=1;" target="V38tE1Ws2DvD1zi-VZIU-81">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="V38tE1Ws2DvD1zi-VZIU-88" edge="1" parent="1" source="V38tE1Ws2DvD1zi-VZIU-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#67AB9F;endArrow=doubleBlock;endFill=1;startArrow=oval;startFill=1;" target="V38tE1Ws2DvD1zi-VZIU-87">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="V38tE1Ws2DvD1zi-VZIU-89" edge="1" parent="1" source="V38tE1Ws2DvD1zi-VZIU-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=oval;startFill=1;strokeColor=#67AB9F;endArrow=doubleBlock;endFill=1;" target="V38tE1Ws2DvD1zi-VZIU-87">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="V38tE1Ws2DvD1zi-VZIU-90" edge="1" parent="1" source="V38tE1Ws2DvD1zi-VZIU-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=oval;startFill=1;strokeColor=#67AB9F;endArrow=doubleBlock;endFill=1;" target="V38tE1Ws2DvD1zi-VZIU-87">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="V38tE1Ws2DvD1zi-VZIU-36" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;endFill=1;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <Array as="points">
-              <mxPoint x="100" y="1300" />
-              <mxPoint x="100" y="1040" />
-            </Array>
-            <mxPoint x="240" y="1300" as="sourcePoint" />
-            <mxPoint x="240" y="1040" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="V38tE1Ws2DvD1zi-VZIU-37" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;endFill=1;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <Array as="points">
-              <mxPoint x="380" y="1040" />
-              <mxPoint x="380" y="1300" />
-            </Array>
-            <mxPoint x="240" y="1040" as="sourcePoint" />
-            <mxPoint x="240" y="1300" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="V38tE1Ws2DvD1zi-VZIU-92" edge="1" parent="1" source="V38tE1Ws2DvD1zi-VZIU-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=oval;startFill=1;strokeColor=#67AB9F;endArrow=doubleBlock;endFill=1;" target="V38tE1Ws2DvD1zi-VZIU-87">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="V38tE1Ws2DvD1zi-VZIU-39" edge="1" parent="1" style="endArrow=oval;startArrow=oval;html=1;rounded=0;strokeColor=#B5739D;startFill=1;endFill=1;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <Array as="points">
-              <mxPoint x="60" y="340" />
-              <mxPoint x="60" y="120" />
-            </Array>
-            <mxPoint x="100" y="340" as="sourcePoint" />
-            <mxPoint x="100" y="120" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="V38tE1Ws2DvD1zi-VZIU-43" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B5739D;strokeColor=#000000;fontSize=10;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;" value="&lt;div&gt;NỘI THẤT - THÁP 01&lt;/div&gt;&lt;div&gt;INTERIOR - TOWER 01&lt;/div&gt;&lt;div&gt;PMH.C1-KOK-T1-ZZ-R24-I-1000&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="240" x="120" y="1320" as="geometry" />
-        </mxCell>
-        <mxCell id="V38tE1Ws2DvD1zi-VZIU-40" edge="1" parent="1" style="endArrow=oval;startArrow=oval;html=1;rounded=0;strokeColor=#B5739D;startFill=1;endFill=1;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <Array as="points">
-              <mxPoint x="60" y="560" />
-              <mxPoint x="60" y="340" />
-            </Array>
-            <mxPoint x="100" y="560" as="sourcePoint" />
-            <mxPoint x="100" y="340" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="V38tE1Ws2DvD1zi-VZIU-44" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#000000;fontSize=10;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;" value="&lt;div&gt;NỘI THẤT - THÁP 02&lt;/div&gt;&lt;div&gt;INTERIOR - TOWER 02&lt;/div&gt;&lt;div&gt;PMH.C1-HBA-T2-ZZ-R24-I-1000&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="240" x="120" y="1380" as="geometry" />
-        </mxCell>
-        <mxCell id="V38tE1Ws2DvD1zi-VZIU-51" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE599;dashed=1;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=10;" value="&lt;div&gt;&lt;font&gt;KIẾN TRÚC - TỔNG HỢP&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;ARCHITECTURE - COMBINE&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;PMH.C1-MHA-ZZ-ZZ-CM-A-1000&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="240" x="120" y="20" as="geometry" />
+        <mxCell id="V38tE1Ws2DvD1zi-VZIU-51" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE599;dashed=1;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=10;" value="&lt;div&gt;&lt;font&gt;KIẾN TRÚC - KHU VỰC 01 - TỔNG HỢP&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;ARCHITECTURE - ZONE 01 - COMBINE&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;XXX.XX-MHA-01-ZZ-CM-A-1000&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="240" x="520" y="180" as="geometry" />
         </mxCell>
         <mxCell id="V38tE1Ws2DvD1zi-VZIU-54" edge="1" parent="1" style="endArrow=doubleBlock;startArrow=doubleBlock;html=1;rounded=0;endFill=1;startFill=1;strokeColor=#7EA6E0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -393,56 +296,6 @@
             <mxPoint x="380" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="V38tE1Ws2DvD1zi-VZIU-56" edge="1" parent="1" style="endArrow=doubleBlock;startArrow=doubleBlock;html=1;rounded=0;endFill=1;startFill=1;strokeColor=#7EA6E0;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <Array as="points">
-              <mxPoint x="420" y="840" />
-              <mxPoint x="420" y="560" />
-            </Array>
-            <mxPoint x="380" y="840" as="sourcePoint" />
-            <mxPoint x="380" y="560" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="V38tE1Ws2DvD1zi-VZIU-58" edge="1" parent="1" style="endArrow=doubleBlock;startArrow=doubleBlock;html=1;rounded=0;endFill=1;startFill=1;strokeColor=#7EA6E0;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <Array as="points">
-              <mxPoint x="420" y="1080" />
-              <mxPoint x="420" y="840" />
-            </Array>
-            <mxPoint x="380" y="1080" as="sourcePoint" />
-            <mxPoint x="380" y="840" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="V38tE1Ws2DvD1zi-VZIU-59" edge="1" parent="1" source="V38tE1Ws2DvD1zi-VZIU-43" style="endArrow=doubleBlock;startArrow=doubleBlock;html=1;rounded=0;endFill=1;startFill=1;strokeColor=#7EA6E0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <Array as="points">
-              <mxPoint x="420" y="1330" />
-              <mxPoint x="420" y="1080" />
-            </Array>
-            <mxPoint x="380" y="1250" as="sourcePoint" />
-            <mxPoint x="380" y="1080" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="V38tE1Ws2DvD1zi-VZIU-60" edge="1" parent="1" source="V38tE1Ws2DvD1zi-VZIU-43" style="endArrow=doubleBlock;startArrow=doubleBlock;html=1;rounded=0;endFill=1;startFill=1;strokeColor=#7EA6E0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" target="V38tE1Ws2DvD1zi-VZIU-44" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <Array as="points">
-              <mxPoint x="420" y="1330" />
-              <mxPoint x="420" y="1390" />
-            </Array>
-            <mxPoint x="490" y="1820" as="sourcePoint" />
-            <mxPoint x="510" y="1500" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="V38tE1Ws2DvD1zi-VZIU-61" edge="1" parent="1" source="V38tE1Ws2DvD1zi-VZIU-44" style="endArrow=doubleBlock;startArrow=doubleBlock;html=1;rounded=0;endFill=1;startFill=1;strokeColor=#7EA6E0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" target="V38tE1Ws2DvD1zi-VZIU-50" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <Array as="points">
-              <mxPoint x="420" y="1390" />
-              <mxPoint x="420" y="1450" />
-            </Array>
-            <mxPoint x="360" y="1580" as="sourcePoint" />
-            <mxPoint x="380" y="1460" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="V38tE1Ws2DvD1zi-VZIU-63" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FFCCCC;endArrow=doubleBlock;endFill=1;startArrow=doubleBlock;startFill=1;">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -463,129 +316,53 @@
             <mxPoint x="380" y="580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="V38tE1Ws2DvD1zi-VZIU-65" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE599;dashed=1;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=10;" value="&lt;div&gt;KIỂM TRA VA CHẠM&lt;/div&gt;&lt;div&gt;CLASH DETECTION&lt;/div&gt;&lt;div&gt;PMH.C1-MHA-ZZ-ZZ-CR-Z-1000&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="240" x="520" y="180" as="geometry" />
-        </mxCell>
-        <mxCell id="V38tE1Ws2DvD1zi-VZIU-68" edge="1" parent="1" source="TrzF5k7z9yYRjgXl_o8y-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;strokeColor=#B5739D;endArrow=oval;endFill=1;startArrow=oval;startFill=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" target="TrzF5k7z9yYRjgXl_o8y-1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="460" y="370" />
-              <mxPoint x="460" y="150" />
-            </Array>
-            <mxPoint x="505" y="510" as="sourcePoint" />
-            <mxPoint x="530" y="330" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="V38tE1Ws2DvD1zi-VZIU-69" edge="1" parent="1" source="TEopqQoxLhHz1hf2nDBn-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;strokeColor=#B5739D;endArrow=oval;endFill=1;startArrow=oval;startFill=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" target="TrzF5k7z9yYRjgXl_o8y-33">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="460" y="590" />
-              <mxPoint x="460" y="370" />
-            </Array>
-            <mxPoint x="465" y="800" as="sourcePoint" />
-            <mxPoint x="360" y="510" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="V38tE1Ws2DvD1zi-VZIU-70" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#B5739D;endArrow=oval;endFill=1;startArrow=oval;startFill=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" target="TEopqQoxLhHz1hf2nDBn-25">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="460" y="860" />
-              <mxPoint x="460" y="590" />
-            </Array>
-            <mxPoint x="380" y="860" as="sourcePoint" />
-            <mxPoint x="360" y="750" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="V38tE1Ws2DvD1zi-VZIU-72" edge="1" parent="1" source="V38tE1Ws2DvD1zi-VZIU-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#B5739D;endArrow=oval;endFill=1;startArrow=oval;startFill=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="460" y="1340" />
-              <mxPoint x="460" y="1060" />
-            </Array>
-            <mxPoint x="380" y="1460" as="sourcePoint" />
-            <mxPoint x="380" y="1060" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="V38tE1Ws2DvD1zi-VZIU-71" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#B5739D;endArrow=oval;endFill=1;startArrow=oval;startFill=1;">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="460" y="1060" />
-              <mxPoint x="460" y="860" />
-            </Array>
-            <mxPoint x="380" y="1060" as="sourcePoint" />
-            <mxPoint x="380" y="860" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="V38tE1Ws2DvD1zi-VZIU-73" edge="1" parent="1" source="V38tE1Ws2DvD1zi-VZIU-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#B5739D;endArrow=oval;endFill=1;startArrow=oval;startFill=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="V38tE1Ws2DvD1zi-VZIU-43">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="460" y="1400" />
-              <mxPoint x="460" y="1340" />
-            </Array>
-            <mxPoint x="550" y="1730" as="sourcePoint" />
-            <mxPoint x="360" y="1460" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="V38tE1Ws2DvD1zi-VZIU-74" edge="1" parent="1" source="V38tE1Ws2DvD1zi-VZIU-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#B5739D;endArrow=oval;endFill=1;startArrow=oval;startFill=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="V38tE1Ws2DvD1zi-VZIU-44">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="460" y="1460" />
-              <mxPoint x="460" y="1400" />
-            </Array>
-            <mxPoint x="380" y="1480" as="sourcePoint" />
-            <mxPoint x="360" y="1580" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="V38tE1Ws2DvD1zi-VZIU-84" edge="1" parent="1" source="V38tE1Ws2DvD1zi-VZIU-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=doubleBlock;endFill=1;strokeColor=#67AB9F;startArrow=oval;startFill=1;" target="V38tE1Ws2DvD1zi-VZIU-81">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="V38tE1Ws2DvD1zi-VZIU-86" edge="1" parent="1" source="V38tE1Ws2DvD1zi-VZIU-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#67AB9F;endArrow=doubleBlock;endFill=1;startArrow=oval;startFill=1;" target="V38tE1Ws2DvD1zi-VZIU-81">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="V38tE1Ws2DvD1zi-VZIU-79" edge="1" parent="1" style="endArrow=doubleBlock;html=1;rounded=0;endFill=1;" value="">
+        <mxCell id="N4YJ6pkrLAFt0WZQhM62-1" edge="1" parent="1" style="endArrow=doubleBlock;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#B5739D;endFill=1;startArrow=oval;startFill=1;dashed=1;" target="N4YJ6pkrLAFt0WZQhM62-2" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <Array as="points">
-              <mxPoint x="380" y="820" />
-              <mxPoint x="380" y="1020" />
+              <mxPoint x="460" y="420" />
+              <mxPoint x="460" y="260" />
             </Array>
-            <mxPoint x="240" y="820" as="sourcePoint" />
-            <mxPoint x="240" y="1020" as="targetPoint" />
+            <mxPoint x="380" y="420" as="sourcePoint" />
+            <mxPoint x="630" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="V38tE1Ws2DvD1zi-VZIU-78" edge="1" parent="1" style="endArrow=doubleBlock;html=1;rounded=0;endFill=1;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <Array as="points">
-              <mxPoint x="100" y="1020" />
-              <mxPoint x="100" y="820" />
-            </Array>
-            <mxPoint x="240" y="1020" as="sourcePoint" />
-            <mxPoint x="240" y="820" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="V38tE1Ws2DvD1zi-VZIU-81" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#000000;dashed=1;fontSize=10;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;" value="&lt;div&gt;KẾT CẤU - TỔNG HỢP&lt;/div&gt;&lt;div&gt;STRUCTURE - COMBINE&lt;/div&gt;&lt;div&gt;PMH.C1-ACO-ZZ-ZZ-CM-S-1000&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="240" x="520" y="900" as="geometry" />
-        </mxCell>
-        <mxCell id="V38tE1Ws2DvD1zi-VZIU-87" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#000000;dashed=1;fontSize=10;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;" value="&lt;div&gt;MEPF - TỔNG HỢP&lt;/div&gt;&lt;div&gt;MEPF - COMBINE&lt;/div&gt;&lt;div&gt;PMH.C1-JRP-ZZ-ZZ-CM-Z-1000&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="240" x="520" y="1120" as="geometry" />
-        </mxCell>
-        <mxCell id="_yStNyIaD4ONdjTcpqS8-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE599;fontFamily=Montserrat;fontSource=https://fonts.googleapis.com/css?family=Montserrat;fontSize=10;" value="&lt;div&gt;CẦU ĐI BỘ SANG TÂM ANH&lt;/div&gt;&lt;div&gt;CONNECTION BRIDGE TO TAM ANH&lt;/div&gt;PMH.C1-MHA-B1-ZZ-R24-A-1000" vertex="1">
+        <mxCell id="N4YJ6pkrLAFt0WZQhM62-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE599;dashed=1;fontFamily=Montserrat;fontSource=https://fonts.googleapis.com/css?family=Montserrat;fontSize=10;" value="&lt;div&gt;&lt;font&gt;KIẾN TRÚC - KHU VỰC 02 - TỔNG HỢP&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;ARCHITECTURE - ZONE 02 - COMBINE&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;XXX.XX-MHA-02-ZZ-CM-A-1000&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="240" x="520" y="240" as="geometry" />
         </mxCell>
-        <mxCell id="_yStNyIaD4ONdjTcpqS8-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE599;fontFamily=Montserrat;fontSource=https://fonts.googleapis.com/css?family=Montserrat;fontSize=10;" value="&lt;div&gt;CẦU ĐI BỘ SANG CRESENT MALL&lt;/div&gt;&lt;div&gt;&lt;div&gt;CONNECTION BRIDGE TO CRESENT MALL&lt;/div&gt;&lt;/div&gt;PMH.C1-MHA-B2-ZZ-R24-A-1000" vertex="1">
-          <mxGeometry height="40" width="240" x="520" y="300" as="geometry" />
-        </mxCell>
-        <mxCell id="_yStNyIaD4ONdjTcpqS8-4" edge="1" parent="1" source="_yStNyIaD4ONdjTcpqS8-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;startArrow=oval;startFill=1;endArrow=doubleBlock;endFill=1;">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="N4YJ6pkrLAFt0WZQhM62-3" edge="1" parent="1" style="endArrow=doubleBlock;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#B5739D;endFill=1;startArrow=oval;startFill=1;dashed=1;" target="N4YJ6pkrLAFt0WZQhM62-4" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
             <Array as="points">
-              <mxPoint x="480" y="320" />
-              <mxPoint x="480" y="280" />
+              <mxPoint x="460" y="640" />
+              <mxPoint x="460" y="480" />
             </Array>
-            <mxPoint x="400" y="280" as="targetPoint" />
+            <mxPoint x="380" y="640" as="sourcePoint" />
+            <mxPoint x="630" y="620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_yStNyIaD4ONdjTcpqS8-3" edge="1" parent="1" source="_yStNyIaD4ONdjTcpqS8-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;startArrow=oval;startFill=1;endArrow=doubleBlock;endFill=1;">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="400" y="259.94594594594594" as="targetPoint" />
+        <mxCell id="N4YJ6pkrLAFt0WZQhM62-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE599;dashed=1;fontFamily=Montserrat;fontSource=https://fonts.googleapis.com/css?family=Montserrat;fontSize=10;" value="&lt;div&gt;&lt;font&gt;KIẾN TRÚC - KHU VỰC 03 - TỔNG HỢP&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;ARCHITECTURE - ZONE 03 - COMBINE&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;XXX.XX-MHA-03-ZZ-CM-A-1000&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="240" x="520" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="N4YJ6pkrLAFt0WZQhM62-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE599;dashed=1;fontFamily=Montserrat;fontSource=https://fonts.googleapis.com/css?family=Montserrat;fontSize=10;" value="&lt;div&gt;&lt;font&gt;KIẾN TRÚC - TỔNG HỢP&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;ARCHITECTURE - COMBINE&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;XXX.XX-MHA-ZZ-ZZ-CM-A-1000&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="240" x="520" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="N4YJ6pkrLAFt0WZQhM62-6" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="100" y="300" />
+              <mxPoint x="100" y="100" />
+            </Array>
+            <mxPoint x="240" y="300" as="sourcePoint" />
+            <mxPoint x="240" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N4YJ6pkrLAFt0WZQhM62-7" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="380" y="100" />
+              <mxPoint x="380" y="300" />
+            </Array>
+            <mxPoint x="240" y="100" as="sourcePoint" />
+            <mxPoint x="240" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
