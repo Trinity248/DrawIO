@@ -1,0 +1,371 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="tyR3ZQhP4Eu5VgwBQBes">
+    <mxGraphModel dx="1414" dy="2405" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="TrzF5k7z9yYRjgXl_o8y-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE599;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=10;" value="&lt;div&gt;KIẾN TRÚC - KHU VỰC 01 - GÓI BẢN VẼ 01&lt;/div&gt;&lt;div&gt;ARCHITECTURE - ZONE 01 - DRAWING SET 01&lt;/div&gt;XXX.XX-MHA-01-ZZ-R24-A-1000" vertex="1">
+          <mxGeometry height="40" width="240" x="120" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="TrzF5k7z9yYRjgXl_o8y-31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE599;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=10;" value="&lt;div&gt;KIẾN TRÚC - KHU VỰC 01 - GÓI BẢN VẼ 02&lt;/div&gt;&lt;div&gt;ARCHITECTURE - ZONE 01 - DRAWING SET 02&lt;/div&gt;XXX.XX-MHA-01-ZZ-R24-A-2000" vertex="1">
+          <mxGeometry height="40" width="240" x="120" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="TrzF5k7z9yYRjgXl_o8y-33" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE599;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=10;" value="&lt;div&gt;KIẾN TRÚC - KHU VỰC 02 - GÓI BẢN VẼ 01&lt;/div&gt;&lt;div&gt;ARCHITECTURE - ZONE 02 - DRAWING SET 01&lt;/div&gt;XXX.XX-MHA-02-ZZ-R24-A-1000" vertex="1">
+          <mxGeometry height="40" width="240" x="120" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="TrzF5k7z9yYRjgXl_o8y-34" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE599;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=10;" value="&lt;div&gt;KIẾN TRÚC - KHU VỰC 02 - GÓI BẢN VẼ 02&lt;/div&gt;&lt;div&gt;ARCHITECTURE -&amp;nbsp;ZONE 02 - DRAWING SET 02&lt;/div&gt;XXX.XX-MHA-02-ZZ-R24-A-2000" vertex="1">
+          <mxGeometry height="40" width="240" x="120" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="V38tE1Ws2DvD1zi-VZIU-9" edge="1" parent="1" source="TrzF5k7z9yYRjgXl_o8y-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#FFCCCC;endArrow=doubleBlock;endFill=1;startArrow=doubleBlock;startFill=1;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="480" y="140" />
+              <mxPoint x="480" y="140" />
+            </Array>
+            <mxPoint x="380" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TrzF5k7z9yYRjgXl_o8y-90" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE599;dashed=1;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=10;" value="&lt;div&gt;CẢNH QUAN NGOẠI KHU &amp;amp; ĐƯỜNG BỘ&lt;/div&gt;&lt;div&gt;EXTERNAL LANDSCAPE &amp;amp; ROAD&lt;/div&gt;&lt;div&gt;XXX.XX-MHA-ZZ-ZZ-R24-L-0000&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="240" x="520" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="TrzF5k7z9yYRjgXl_o8y-91" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE599;dashed=1;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=10;" value="&lt;div&gt;CAO ĐỘ &amp;amp; TRỤC - TỔNG THỂ&lt;/div&gt;&lt;div&gt;LEVELS &amp;amp; GRIDS - OVERALL&lt;/div&gt;&lt;div&gt;XXX.XX-MHA-ZZ-ZZ-R24-A-0000&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="240" x="520" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="V38tE1Ws2DvD1zi-VZIU-1" edge="1" parent="1" source="TrzF5k7z9yYRjgXl_o8y-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#7EA6E0;endArrow=doubleBlock;endFill=1;startArrow=oval;startFill=1;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="40" />
+              <mxPoint x="420" y="120" />
+            </Array>
+            <mxPoint x="380" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TrzF5k7z9yYRjgXl_o8y-113" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="880" y="29.519999999999982" as="sourcePoint" />
+            <mxPoint x="920" y="30" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TrzF5k7z9yYRjgXl_o8y-114" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=10;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;" value="Link Overlay" vertex="1">
+          <mxGeometry height="20" width="230" x="930" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TrzF5k7z9yYRjgXl_o8y-115" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontStyle=1;dashed=1;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="880" y="49.51999999999998" as="sourcePoint" />
+            <mxPoint x="920" y="50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TrzF5k7z9yYRjgXl_o8y-116" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=10;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;" value="Link Attachment" vertex="1">
+          <mxGeometry height="20" width="230" x="930" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TrzF5k7z9yYRjgXl_o8y-117" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fontStyle=1;strokeColor=#000000;endFill=1;startArrow=oval;startFill=1;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="880" y="69.51999999999998" as="sourcePoint" />
+            <mxPoint x="920" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TrzF5k7z9yYRjgXl_o8y-118" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=10;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;" value="Link by Origin" vertex="1">
+          <mxGeometry height="20" width="230" x="930" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TrzF5k7z9yYRjgXl_o8y-119" edge="1" parent="1" style="endArrow=doubleBlock;html=1;rounded=0;fontStyle=1;strokeColor=#000000;endFill=1;startArrow=oval;startFill=1;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="880" y="89.51999999999998" as="sourcePoint" />
+            <mxPoint x="920" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TrzF5k7z9yYRjgXl_o8y-120" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=10;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;" value="Link by Shared Coordinate" vertex="1">
+          <mxGeometry height="20" width="230" x="930" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TrzF5k7z9yYRjgXl_o8y-125" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=10;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;" value="Link 1 chiều/ One direction link" vertex="1">
+          <mxGeometry height="20" width="230" x="930" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="TrzF5k7z9yYRjgXl_o8y-126" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fontStyle=1;strokeColor=#000000;endFill=1;startArrow=oval;startFill=1;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="880" y="109.51999999999998" as="sourcePoint" />
+            <mxPoint x="920" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TrzF5k7z9yYRjgXl_o8y-127" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fontStyle=1;strokeColor=#000000;endFill=1;startArrow=classic;startFill=1;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="880" y="129.51999999999998" as="sourcePoint" />
+            <mxPoint x="920" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TrzF5k7z9yYRjgXl_o8y-128" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=10;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;" value="Link 2 chiều/ Both direction link" vertex="1">
+          <mxGeometry height="20" width="230" x="930" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="TrzF5k7z9yYRjgXl_o8y-129" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=10;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;" value="Load family" vertex="1">
+          <mxGeometry height="20" width="190" x="930" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="TrzF5k7z9yYRjgXl_o8y-130" edge="1" parent="1" style="endArrow=oval;html=1;rounded=0;fontStyle=1;strokeColor=#000000;endFill=1;startArrow=oval;startFill=1;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="880" y="229.51999999999998" as="sourcePoint" />
+            <mxPoint x="920" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TEopqQoxLhHz1hf2nDBn-4" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="880" y="170" />
+              <mxPoint x="880" y="150" />
+            </Array>
+            <mxPoint x="900" y="170" as="sourcePoint" />
+            <mxPoint x="900" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TEopqQoxLhHz1hf2nDBn-5" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="920" y="150" />
+              <mxPoint x="920" y="170" />
+            </Array>
+            <mxPoint x="900" y="150" as="sourcePoint" />
+            <mxPoint x="900" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TEopqQoxLhHz1hf2nDBn-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=10;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;" value="Nhóm mô hình liên kết gần - Link chéo giữa 1 file bất kì và các file còn lại trong nhóm&lt;div&gt;Close linked model group -&amp;nbsp;Cross-linking between any one file and the other files in the group&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="230" x="930" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="TEopqQoxLhHz1hf2nDBn-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;" value="" vertex="1">
+          <mxGeometry height="20" width="40" x="880" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="TEopqQoxLhHz1hf2nDBn-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=10;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;" value="File chứa model/ Model Container" vertex="1">
+          <mxGeometry height="20" width="230" x="930" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="TEopqQoxLhHz1hf2nDBn-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;dashed=1;" value="" vertex="1">
+          <mxGeometry height="20" width="40" x="880" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="TEopqQoxLhHz1hf2nDBn-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=1 4;" value="" vertex="1">
+          <mxGeometry height="20" width="40" x="880" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="TEopqQoxLhHz1hf2nDBn-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=10;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;" value="File chứa bản vẽ/ Drawing Container" vertex="1">
+          <mxGeometry height="20" width="230" x="930" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="TEopqQoxLhHz1hf2nDBn-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=10;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;" value="File chứa model &amp;amp; bản vẽ&lt;div&gt;Model &amp;amp; Drawing Container&lt;/div&gt;" vertex="1">
+          <mxGeometry height="20" width="230" x="930" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="TEopqQoxLhHz1hf2nDBn-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=none;" value="" vertex="1">
+          <mxGeometry height="20" width="40" x="880" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="TEopqQoxLhHz1hf2nDBn-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=none;" value="" vertex="1">
+          <mxGeometry height="20" width="40" x="880" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="TEopqQoxLhHz1hf2nDBn-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" value="" vertex="1">
+          <mxGeometry height="20" width="40" x="880" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="TEopqQoxLhHz1hf2nDBn-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=10;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;" value="Quản lý bởi tư vấn Kiến trúc (MHA)&lt;div&gt;Manage by Architectural consultant&lt;/div&gt;" vertex="1">
+          <mxGeometry height="20" width="230" x="930" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="TEopqQoxLhHz1hf2nDBn-20" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="500" y="620" />
+              <mxPoint x="500" />
+            </Array>
+            <mxPoint x="640" y="620" as="sourcePoint" />
+            <mxPoint x="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TEopqQoxLhHz1hf2nDBn-21" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="780" />
+              <mxPoint x="780" y="620" />
+            </Array>
+            <mxPoint x="640" as="sourcePoint" />
+            <mxPoint x="640" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TEopqQoxLhHz1hf2nDBn-22" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="100" y="520" />
+              <mxPoint x="100" y="320" />
+            </Array>
+            <mxPoint x="240" y="520" as="sourcePoint" />
+            <mxPoint x="240" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TEopqQoxLhHz1hf2nDBn-23" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="380" y="320" />
+              <mxPoint x="380" y="520" />
+            </Array>
+            <mxPoint x="240" y="320" as="sourcePoint" />
+            <mxPoint x="240" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TEopqQoxLhHz1hf2nDBn-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE599;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=10;" value="&lt;div&gt;KIẾN TRÚC - KHU VỰC 03- GÓI BẢN VẼ 01&lt;/div&gt;&lt;div&gt;ARCHITECTURE - ZONE 03 - DRAWING SET 03&lt;/div&gt;XXX.XX-MHA-03-ZZ-R24-A-1000" vertex="1">
+          <mxGeometry height="40" width="240" x="120" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="TEopqQoxLhHz1hf2nDBn-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE599;fontSize=10;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;" value="&lt;div&gt;KIẾN TRÚC - KHU VỰC 03 - GÓI BẢN VẼ 02&lt;/div&gt;&lt;div&gt;ARCHITECTURE - ZONE 03 - DRAWING SET 02&lt;/div&gt;XXX.XX-MHA-03-ZZ-R24-A-2000" vertex="1">
+          <mxGeometry height="40" width="240" x="120" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="TEopqQoxLhHz1hf2nDBn-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE599;fontSize=10;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;" value="&lt;div&gt;KIẾN TRÚC - KHU VỰC 03 - GÓI BẢN VẼ 03&lt;/div&gt;&lt;div&gt;ARCHITECTURE - ZONE 03 - DRAWING SET 03&lt;/div&gt;XXX.XX-MHA-03-ZZ-R24-A-3000" vertex="1">
+          <mxGeometry height="40" width="240" x="120" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="TEopqQoxLhHz1hf2nDBn-30" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="380" y="540" />
+              <mxPoint x="380" y="740" />
+            </Array>
+            <mxPoint x="240" y="540" as="sourcePoint" />
+            <mxPoint x="240" y="740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TEopqQoxLhHz1hf2nDBn-31" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="100" y="740" />
+              <mxPoint x="100" y="540" />
+            </Array>
+            <mxPoint x="240" y="740" as="sourcePoint" />
+            <mxPoint x="240" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TEopqQoxLhHz1hf2nDBn-32" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE599;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=10;" value="&lt;div&gt;KIẾN TRÚC - KHU VỰC 01 - GÓI BẢN VẼ 03&lt;/div&gt;&lt;div&gt;ARCHITECTURE - ZONE 01 - DRAWING SET 03&lt;/div&gt;XXX.XX-MHA-01-ZZ-R24-A-3000" vertex="1">
+          <mxGeometry height="40" width="240" x="120" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="TEopqQoxLhHz1hf2nDBn-33" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE599;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=10;" value="&lt;div&gt;KIẾN TRÚC - KHU VỰC 02 - GÓI BẢN VẼ 03&lt;/div&gt;&lt;div&gt;ARCHITECTURE - ZONE 02 - DRAWING SET 03&lt;/div&gt;XXX.XX-MHA-02-ZZ-R24-A-3000" vertex="1">
+          <mxGeometry height="40" width="240" x="120" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="TEopqQoxLhHz1hf2nDBn-45" edge="1" parent="1" style="endArrow=doubleBlock;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#B5739D;endFill=1;startArrow=oval;startFill=1;dashed=1;" target="V38tE1Ws2DvD1zi-VZIU-51" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="440" y="200" />
+            </Array>
+            <mxPoint x="380" y="200" as="sourcePoint" />
+            <mxPoint x="630" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TEopqQoxLhHz1hf2nDBn-46" edge="1" parent="1" style="endArrow=doubleBlock;html=1;rounded=0;endFill=1;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="80" y="760" />
+              <mxPoint x="80" y="80" />
+            </Array>
+            <mxPoint x="240" y="760" as="sourcePoint" />
+            <mxPoint x="240" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TEopqQoxLhHz1hf2nDBn-47" edge="1" parent="1" style="endArrow=doubleBlock;html=1;rounded=0;endFill=1;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="80" />
+              <mxPoint x="400" y="760" />
+            </Array>
+            <mxPoint x="240" y="80" as="sourcePoint" />
+            <mxPoint x="240" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V38tE1Ws2DvD1zi-VZIU-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" value="" vertex="1">
+          <mxGeometry height="20" width="40" x="880" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="V38tE1Ws2DvD1zi-VZIU-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=none;" value="" vertex="1">
+          <mxGeometry height="20" width="40" x="880" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="V38tE1Ws2DvD1zi-VZIU-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B5739D;strokeColor=none;" value="" vertex="1">
+          <mxGeometry height="20" width="40" x="880" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="V38tE1Ws2DvD1zi-VZIU-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EA6B66;strokeColor=none;" value="" vertex="1">
+          <mxGeometry height="20" width="40" x="880" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="V38tE1Ws2DvD1zi-VZIU-51" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE599;dashed=1;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=10;" value="&lt;div&gt;&lt;font&gt;KIẾN TRÚC - KHU VỰC 01 - TỔNG HỢP&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;ARCHITECTURE - ZONE 01 - COMBINE&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;XXX.XX-MHA-01-ZZ-CM-A-1000&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="240" x="520" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="V38tE1Ws2DvD1zi-VZIU-54" edge="1" parent="1" style="endArrow=doubleBlock;startArrow=doubleBlock;html=1;rounded=0;endFill=1;startFill=1;strokeColor=#7EA6E0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="340" />
+              <mxPoint x="420" y="360" />
+              <mxPoint x="420" y="120" />
+            </Array>
+            <mxPoint x="380" y="340" as="sourcePoint" />
+            <mxPoint x="380" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V38tE1Ws2DvD1zi-VZIU-55" edge="1" parent="1" style="endArrow=doubleBlock;startArrow=doubleBlock;html=1;rounded=0;endFill=1;startFill=1;strokeColor=#7EA6E0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="560" />
+              <mxPoint x="420" y="340" />
+            </Array>
+            <mxPoint x="380" y="560" as="sourcePoint" />
+            <mxPoint x="380" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V38tE1Ws2DvD1zi-VZIU-63" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FFCCCC;endArrow=doubleBlock;endFill=1;startArrow=doubleBlock;startFill=1;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="440" y="140" />
+              <mxPoint x="440" y="360" />
+            </Array>
+            <mxPoint x="380" y="140" as="sourcePoint" />
+            <mxPoint x="380" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V38tE1Ws2DvD1zi-VZIU-64" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FFCCCC;endArrow=doubleBlock;endFill=1;startArrow=doubleBlock;startFill=1;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="440" y="360" />
+              <mxPoint x="440" y="580" />
+            </Array>
+            <mxPoint x="380" y="360" as="sourcePoint" />
+            <mxPoint x="380" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N4YJ6pkrLAFt0WZQhM62-1" edge="1" parent="1" style="endArrow=doubleBlock;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#B5739D;endFill=1;startArrow=oval;startFill=1;dashed=1;" target="N4YJ6pkrLAFt0WZQhM62-2" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="460" y="420" />
+              <mxPoint x="460" y="260" />
+            </Array>
+            <mxPoint x="380" y="420" as="sourcePoint" />
+            <mxPoint x="630" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N4YJ6pkrLAFt0WZQhM62-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE599;dashed=1;fontFamily=Montserrat;fontSource=https://fonts.googleapis.com/css?family=Montserrat;fontSize=10;" value="&lt;div&gt;&lt;font&gt;KIẾN TRÚC - KHU VỰC 02 - TỔNG HỢP&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;ARCHITECTURE - ZONE 02 - COMBINE&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;XXX.XX-MHA-02-ZZ-CM-A-1000&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="240" x="520" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="N4YJ6pkrLAFt0WZQhM62-3" edge="1" parent="1" style="endArrow=doubleBlock;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#B5739D;endFill=1;startArrow=oval;startFill=1;dashed=1;" target="N4YJ6pkrLAFt0WZQhM62-4" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="460" y="640" />
+              <mxPoint x="460" y="480" />
+            </Array>
+            <mxPoint x="380" y="640" as="sourcePoint" />
+            <mxPoint x="630" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N4YJ6pkrLAFt0WZQhM62-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE599;dashed=1;fontFamily=Montserrat;fontSource=https://fonts.googleapis.com/css?family=Montserrat;fontSize=10;" value="&lt;div&gt;&lt;font&gt;KIẾN TRÚC - KHU VỰC 03 - TỔNG HỢP&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;ARCHITECTURE - ZONE 03 - COMBINE&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;XXX.XX-MHA-03-ZZ-CM-A-1000&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="240" x="520" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="N4YJ6pkrLAFt0WZQhM62-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE599;dashed=1;fontFamily=Montserrat;fontSource=https://fonts.googleapis.com/css?family=Montserrat;fontSize=10;" value="&lt;div&gt;&lt;font&gt;KIẾN TRÚC - TỔNG HỢP&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;ARCHITECTURE - COMBINE&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;XXX.XX-MHA-ZZ-ZZ-CM-A-1000&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="240" x="520" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="N4YJ6pkrLAFt0WZQhM62-6" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="100" y="300" />
+              <mxPoint x="100" y="100" />
+            </Array>
+            <mxPoint x="240" y="300" as="sourcePoint" />
+            <mxPoint x="240" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N4YJ6pkrLAFt0WZQhM62-7" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="380" y="100" />
+              <mxPoint x="380" y="300" />
+            </Array>
+            <mxPoint x="240" y="100" as="sourcePoint" />
+            <mxPoint x="240" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
