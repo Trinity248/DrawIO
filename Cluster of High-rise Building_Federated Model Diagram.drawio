@@ -231,15 +231,6 @@
         <mxCell id="TEopqQoxLhHz1hf2nDBn-33" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE599;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=10;" value="&lt;div&gt;KIẾN TRÚC - KHU VỰC 02 - GÓI BẢN VẼ 03&lt;/div&gt;&lt;div&gt;ARCHITECTURE - ZONE 02 - DRAWING SET 03&lt;/div&gt;XXX.XX-MHA-02-ZZ-R24-A-3000" vertex="1">
           <mxGeometry height="40" width="240" x="120" y="460" as="geometry" />
         </mxCell>
-        <mxCell id="TEopqQoxLhHz1hf2nDBn-45" edge="1" parent="1" style="endArrow=doubleBlock;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#B5739D;endFill=1;startArrow=oval;startFill=1;dashed=1;" target="V38tE1Ws2DvD1zi-VZIU-51" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <Array as="points">
-              <mxPoint x="440" y="200" />
-            </Array>
-            <mxPoint x="380" y="200" as="sourcePoint" />
-            <mxPoint x="630" y="180" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="TEopqQoxLhHz1hf2nDBn-46" edge="1" parent="1" style="endArrow=doubleBlock;html=1;rounded=0;endFill=1;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <Array as="points">
@@ -363,6 +354,15 @@
             </Array>
             <mxPoint x="240" y="100" as="sourcePoint" />
             <mxPoint x="240" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TEopqQoxLhHz1hf2nDBn-45" edge="1" parent="1" style="endArrow=doubleBlock;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#B5739D;endFill=1;startArrow=oval;startFill=1;dashed=1;" target="V38tE1Ws2DvD1zi-VZIU-51" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="440" y="200" />
+            </Array>
+            <mxPoint x="380" y="200" as="sourcePoint" />
+            <mxPoint x="630" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
