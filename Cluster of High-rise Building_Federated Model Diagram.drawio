@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="tyR3ZQhP4Eu5VgwBQBes">
-    <mxGraphModel dx="1414" dy="2405" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="975" dy="2172" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -342,7 +342,7 @@
         <mxCell id="N4YJ6pkrLAFt0WZQhM62-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE599;dashed=1;fontFamily=Montserrat;fontSource=https://fonts.googleapis.com/css?family=Montserrat;fontSize=10;" value="&lt;div&gt;&lt;font&gt;KIẾN TRÚC - KHU VỰC 03 - TỔNG HỢP&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;ARCHITECTURE - ZONE 03 - COMBINE&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;XXX.XX-MHA-03-ZZ-CM-A-1000&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="240" x="520" y="460" as="geometry" />
         </mxCell>
-        <mxCell id="N4YJ6pkrLAFt0WZQhM62-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE599;dashed=1;fontFamily=Montserrat;fontSource=https://fonts.googleapis.com/css?family=Montserrat;fontSize=10;" value="&lt;div&gt;&lt;font&gt;KIẾN TRÚC - TỔNG HỢP&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;ARCHITECTURE - COMBINE&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;XXX.XX-MHA-ZZ-ZZ-CM-A-1000&lt;/font&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="N4YJ6pkrLAFt0WZQhM62-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE599;fontFamily=Montserrat;fontSource=https://fonts.googleapis.com/css?family=Montserrat;fontSize=10;" value="&lt;div&gt;&lt;font&gt;KIẾN TRÚC - TỔNG HỢP&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;ARCHITECTURE - COMBINE&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;XXX.XX-MHA-ZZ-ZZ-CM-A-1000&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="240" x="520" y="560" as="geometry" />
         </mxCell>
         <mxCell id="N4YJ6pkrLAFt0WZQhM62-6" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
