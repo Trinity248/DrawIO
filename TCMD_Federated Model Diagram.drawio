@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="tyR3ZQhP4Eu5VgwBQBes">
-    <mxGraphModel dx="1107" dy="673" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="646" dy="393" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -210,13 +210,13 @@
             <mxPoint x="240" y="580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TEopqQoxLhHz1hf2nDBn-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE599;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=10;" value="&lt;div&gt;KIẾN TRÚC - THÁP B&lt;/div&gt;&lt;div&gt;ARCHITECTURE - TOWER B&lt;/div&gt;TCMD-MHA-TB-ZZ-R23-A-1000" vertex="1">
+        <mxCell id="TEopqQoxLhHz1hf2nDBn-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE599;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=10;" value="&lt;div&gt;KIẾN TRÚC - THÁP B1&lt;/div&gt;&lt;div&gt;ARCHITECTURE - TOWER B1&lt;/div&gt;TCMD-MHA-TB1-ZZ-R23-A-1000" vertex="1">
           <mxGeometry height="40" width="240" x="120" y="620" as="geometry" />
         </mxCell>
-        <mxCell id="TEopqQoxLhHz1hf2nDBn-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE599;fontSize=10;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;" value="&lt;div&gt;&lt;div&gt;KẾT CẤU - THÁP B&lt;/div&gt;&lt;div&gt;STRUCTURE - TOWER B&lt;/div&gt;&lt;/div&gt;TCMD-MHA-TB-ZZ-R23-A-2000" vertex="1">
+        <mxCell id="TEopqQoxLhHz1hf2nDBn-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE599;fontSize=10;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;" value="&lt;div&gt;&lt;div&gt;KẾT CẤU - THÁP B1&lt;/div&gt;&lt;div&gt;STRUCTURE - TOWER B1&lt;/div&gt;&lt;/div&gt;TCMD-MHA-TB1-ZZ-R23-A-2000" vertex="1">
           <mxGeometry height="40" width="240" x="120" y="680" as="geometry" />
         </mxCell>
-        <mxCell id="TEopqQoxLhHz1hf2nDBn-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE599;fontSize=10;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;" value="&lt;div&gt;MẶT DỰNG - &lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;THÁP B&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;FACADE - TOWER B&lt;/span&gt;&lt;/div&gt;TCMD-MHA-TB-ZZ-R23-A-3000" vertex="1">
+        <mxCell id="TEopqQoxLhHz1hf2nDBn-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE599;fontSize=10;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;" value="&lt;div&gt;MẶT DỰNG - &lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;THÁP B1&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;FACADE - TOWER B1&lt;/span&gt;&lt;/div&gt;TCMD-MHA-TB1-ZZ-R23-A-3000" vertex="1">
           <mxGeometry height="40" width="240" x="120" y="740" as="geometry" />
         </mxCell>
         <mxCell id="TEopqQoxLhHz1hf2nDBn-30" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
@@ -435,13 +435,13 @@
         <mxCell id="hJ8PBZIhY1m3eom2ijDv-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE599;fontFamily=Montserrat;fontSource=https://fonts.googleapis.com/css?family=Montserrat;fontSize=10;" value="&lt;div&gt;KẾT CẤU -&amp;nbsp; HẦM &amp;amp;&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;ĐẾ&lt;/span&gt;&lt;/div&gt;&lt;div&gt;STRUCTURE - BASEMENT &amp;amp; PODIUM&lt;/div&gt;TCMD-MHA-PO-ZZ-R23-A-2000" vertex="1">
           <mxGeometry height="40" width="240" x="120" y="240" as="geometry" />
         </mxCell>
-        <mxCell id="hJ8PBZIhY1m3eom2ijDv-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE599;fontFamily=Montserrat;fontSource=https://fonts.googleapis.com/css?family=Montserrat;fontSize=10;" value="&lt;div&gt;KIẾN TRÚC - THÁP C&lt;/div&gt;&lt;div&gt;ARCHITECTURE - TOWER C&lt;/div&gt;TCMD-MHA-TC-ZZ-R23-A-1000" vertex="1">
+        <mxCell id="hJ8PBZIhY1m3eom2ijDv-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE599;fontFamily=Montserrat;fontSource=https://fonts.googleapis.com/css?family=Montserrat;fontSize=10;" value="&lt;div&gt;KIẾN TRÚC - THÁP B2&lt;/div&gt;&lt;div&gt;ARCHITECTURE - TOWER B2&lt;/div&gt;TCMD-MHA-TB2-ZZ-R23-A-1000" vertex="1">
           <mxGeometry height="40" width="240" x="120" y="840" as="geometry" />
         </mxCell>
-        <mxCell id="hJ8PBZIhY1m3eom2ijDv-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE599;fontSize=10;fontFamily=Montserrat;fontSource=https://fonts.googleapis.com/css?family=Montserrat;" value="&lt;div&gt;&lt;div&gt;KẾT CẤU - THÁP C&lt;/div&gt;&lt;div&gt;STRUCTURE - TOWER C&lt;/div&gt;&lt;/div&gt;TCMD-MHA-TC-ZZ-R23-A-2000" vertex="1">
+        <mxCell id="hJ8PBZIhY1m3eom2ijDv-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE599;fontSize=10;fontFamily=Montserrat;fontSource=https://fonts.googleapis.com/css?family=Montserrat;" value="&lt;div&gt;&lt;div&gt;KẾT CẤU - THÁP B2&lt;/div&gt;&lt;div&gt;STRUCTURE - TOWER B2&lt;/div&gt;&lt;/div&gt;TCMD-MHA-TB2-ZZ-R23-A-2000" vertex="1">
           <mxGeometry height="40" width="240" x="120" y="900" as="geometry" />
         </mxCell>
-        <mxCell id="hJ8PBZIhY1m3eom2ijDv-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE599;fontSize=10;fontFamily=Montserrat;fontSource=https://fonts.googleapis.com/css?family=Montserrat;" value="&lt;div&gt;MẶT DỰNG - &lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;THÁP C&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;FACADE - TOWER C&lt;/span&gt;&lt;/div&gt;TCMD-MHA-TC-ZZ-R23-A-3000" vertex="1">
+        <mxCell id="hJ8PBZIhY1m3eom2ijDv-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE599;fontSize=10;fontFamily=Montserrat;fontSource=https://fonts.googleapis.com/css?family=Montserrat;" value="&lt;div&gt;MẶT DỰNG - &lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;THÁP B2&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;FACADE - TOWER B2&lt;/span&gt;&lt;/div&gt;TCMD-MHA-TB2-ZZ-R23-A-3000" vertex="1">
           <mxGeometry height="40" width="240" x="120" y="960" as="geometry" />
         </mxCell>
         <mxCell id="hJ8PBZIhY1m3eom2ijDv-5" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
@@ -464,13 +464,13 @@
             <mxPoint x="240" y="820" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hJ8PBZIhY1m3eom2ijDv-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE599;fontFamily=Montserrat;fontSource=https://fonts.googleapis.com/css?family=Montserrat;fontSize=10;" value="&lt;div&gt;KIẾN TRÚC - THÁP D&lt;/div&gt;&lt;div&gt;ARCHITECTURE - TOWER D&lt;/div&gt;TCMD-MHA-TD-ZZ-R23-A-1000" vertex="1">
+        <mxCell id="hJ8PBZIhY1m3eom2ijDv-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE599;fontFamily=Montserrat;fontSource=https://fonts.googleapis.com/css?family=Montserrat;fontSize=10;" value="&lt;div&gt;KIẾN TRÚC - THÁP C&lt;/div&gt;&lt;div&gt;ARCHITECTURE - TOWER C&lt;/div&gt;TCMD-MHA-TC-ZZ-R23-A-1000" vertex="1">
           <mxGeometry height="40" width="240" x="120" y="1060" as="geometry" />
         </mxCell>
-        <mxCell id="hJ8PBZIhY1m3eom2ijDv-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE599;fontSize=10;fontFamily=Montserrat;fontSource=https://fonts.googleapis.com/css?family=Montserrat;" value="&lt;div&gt;&lt;div&gt;KẾT CẤU - THÁP D&lt;/div&gt;&lt;div&gt;STRUCTURE - TOWER D&lt;/div&gt;&lt;/div&gt;TCMD-MHA-TD-ZZ-R23-A-2000" vertex="1">
+        <mxCell id="hJ8PBZIhY1m3eom2ijDv-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE599;fontSize=10;fontFamily=Montserrat;fontSource=https://fonts.googleapis.com/css?family=Montserrat;" value="&lt;div&gt;&lt;div&gt;KẾT CẤU - THÁP C&lt;/div&gt;&lt;div&gt;STRUCTURE - TOWER C&lt;/div&gt;&lt;/div&gt;TCMD-MHA-TC-ZZ-R23-A-2000" vertex="1">
           <mxGeometry height="40" width="240" x="120" y="1120" as="geometry" />
         </mxCell>
-        <mxCell id="hJ8PBZIhY1m3eom2ijDv-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE599;fontSize=10;fontFamily=Montserrat;fontSource=https://fonts.googleapis.com/css?family=Montserrat;" value="&lt;div&gt;MẶT DỰNG - &lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;THÁP D&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;FACADE - TOWER D&lt;/span&gt;&lt;/div&gt;TCMD-MHA-TD-ZZ-R23-A-3000" vertex="1">
+        <mxCell id="hJ8PBZIhY1m3eom2ijDv-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE599;fontSize=10;fontFamily=Montserrat;fontSource=https://fonts.googleapis.com/css?family=Montserrat;" value="&lt;div&gt;MẶT DỰNG - &lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;THÁP C&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;FACADE - TOWER C&lt;/span&gt;&lt;/div&gt;TCMD-MHA-TC-ZZ-R23-A-3000" vertex="1">
           <mxGeometry height="40" width="240" x="120" y="1180" as="geometry" />
         </mxCell>
         <mxCell id="hJ8PBZIhY1m3eom2ijDv-10" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
