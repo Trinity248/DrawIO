@@ -18,10 +18,10 @@
         <mxCell id="TrzF5k7z9yYRjgXl_o8y-31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE599;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=10;" value="&lt;div&gt;KIẾN TRÚC - ĐẾ&lt;/div&gt;&lt;div&gt;ARCHITECTURE - PODIUM&lt;/div&gt;TCMD-MHA-PO-ZZ-R23-A-1000" vertex="1">
           <mxGeometry height="40" width="240" x="120" y="180" as="geometry" />
         </mxCell>
-        <mxCell id="TrzF5k7z9yYRjgXl_o8y-33" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE599;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=10;" value="&lt;div&gt;KIẾN TRÚC - THÁP A&lt;/div&gt;&lt;div&gt;ARCHITECTURE - TOWER 01&lt;/div&gt;TCMD-MHA-TA-ZZ-R23-A-1000" vertex="1">
+        <mxCell id="TrzF5k7z9yYRjgXl_o8y-33" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE599;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=10;" value="&lt;div&gt;KIẾN TRÚC - THÁP A&lt;/div&gt;&lt;div&gt;ARCHITECTURE - TOWER A&lt;/div&gt;TCMD-MHA-TA-ZZ-R23-A-1000" vertex="1">
           <mxGeometry height="40" width="240" x="120" y="400" as="geometry" />
         </mxCell>
-        <mxCell id="TrzF5k7z9yYRjgXl_o8y-34" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE599;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=10;" value="&lt;div&gt;KẾT CẤU - THÁP A&lt;/div&gt;&lt;div&gt;STRUCTURE - TOWER 01&lt;/div&gt;TCMD-MHA-TA-ZZ-R23-A-2000" vertex="1">
+        <mxCell id="TrzF5k7z9yYRjgXl_o8y-34" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE599;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=10;" value="&lt;div&gt;KẾT CẤU - THÁP A&lt;/div&gt;&lt;div&gt;STRUCTURE - TOWER A&lt;/div&gt;TCMD-MHA-TA-ZZ-R23-A-2000" vertex="1">
           <mxGeometry height="40" width="240" x="120" y="460" as="geometry" />
         </mxCell>
         <mxCell id="V38tE1Ws2DvD1zi-VZIU-9" edge="1" parent="1" source="TrzF5k7z9yYRjgXl_o8y-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#FFCCCC;endArrow=doubleBlock;endFill=1;startArrow=doubleBlock;startFill=1;">
@@ -242,7 +242,7 @@
         <mxCell id="TEopqQoxLhHz1hf2nDBn-32" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE599;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=10;" value="&lt;div&gt;MẶT DỰNG - ĐẾ&lt;/div&gt;&lt;div&gt;FACADE - PODIUM&lt;/div&gt;TCMD-MHA-PO-ZZ-R23-A-3000" vertex="1">
           <mxGeometry height="40" width="240" x="120" y="300" as="geometry" />
         </mxCell>
-        <mxCell id="TEopqQoxLhHz1hf2nDBn-33" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE599;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=10;" value="&lt;div&gt;MẶT DỰNG - THÁP A&lt;/div&gt;&lt;div&gt;FACADE - TOWER 01&lt;/div&gt;TCMD-MHA-TA-ZZ-R23-A-3000" vertex="1">
+        <mxCell id="TEopqQoxLhHz1hf2nDBn-33" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE599;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=10;" value="&lt;div&gt;MẶT DỰNG - THÁP A&lt;/div&gt;&lt;div&gt;FACADE - TOWER A&lt;/div&gt;TCMD-MHA-TA-ZZ-R23-A-3000" vertex="1">
           <mxGeometry height="40" width="240" x="120" y="520" as="geometry" />
         </mxCell>
         <mxCell id="TEopqQoxLhHz1hf2nDBn-45" edge="1" parent="1" style="endArrow=doubleBlock;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#B5739D;endFill=1;startArrow=oval;startFill=1;" target="V38tE1Ws2DvD1zi-VZIU-51" value="">
@@ -476,7 +476,7 @@
             <mxPoint x="240" y="820" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hJ8PBZIhY1m3eom2ijDv-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE599;fontFamily=Montserrat;fontSource=https://fonts.googleapis.com/css?family=Montserrat;fontSize=10;" value="&lt;div&gt;KIẾN TRÚC - THÁP D&lt;/div&gt;&lt;div&gt;ARCHITECTURE - TOWER D&lt;/div&gt;TCMD-MHA-TC-ZZ-R23-A-1000" vertex="1">
+        <mxCell id="hJ8PBZIhY1m3eom2ijDv-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE599;fontFamily=Montserrat;fontSource=https://fonts.googleapis.com/css?family=Montserrat;fontSize=10;" value="&lt;div&gt;KIẾN TRÚC - THÁP D&lt;/div&gt;&lt;div&gt;ARCHITECTURE - TOWER D&lt;/div&gt;TCMD-MHA-TD-ZZ-R23-A-1000" vertex="1">
           <mxGeometry height="40" width="240" x="120" y="1060" as="geometry" />
         </mxCell>
         <mxCell id="hJ8PBZIhY1m3eom2ijDv-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE599;fontSize=10;fontFamily=Montserrat;fontSource=https://fonts.googleapis.com/css?family=Montserrat;" value="&lt;div&gt;&lt;div&gt;KẾT CẤU - THÁP D&lt;/div&gt;&lt;div&gt;STRUCTURE - TOWER D&lt;/div&gt;&lt;/div&gt;TCMD-MHA-TD-ZZ-R23-A-2000" vertex="1">
