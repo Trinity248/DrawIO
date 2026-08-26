@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="tyR3ZQhP4Eu5VgwBQBes">
-    <mxGraphModel dx="1414" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1178" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -363,10 +363,10 @@
         <mxCell id="hJ8PBZIhY1m3eom2ijDv-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE599;fontFamily=Montserrat;fontSource=https://fonts.googleapis.com/css?family=Montserrat;fontSize=10;" value="&lt;div&gt;KẾT CẤU -&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;ĐẾ&lt;/span&gt;&lt;/div&gt;&lt;div&gt;STRUCTURE - PODIUM&lt;/div&gt;CLLA-MHA-PO-ZZ-R23-A-2000" vertex="1">
           <mxGeometry height="40" width="240" x="120" y="180" as="geometry" />
         </mxCell>
-        <mxCell id="hJ8PBZIhY1m3eom2ijDv-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=default;" value="&lt;div style=&quot;font-family: Montserrat; font-size: 10px;&quot;&gt;KẾT CẤU - TOÀN KHU&lt;/div&gt;&lt;div style=&quot;font-family: Montserrat; font-size: 10px;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;STRUCTURE - OVERALL&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-family: Montserrat; font-size: 10px;&quot;&gt;TCMD-ZZZ-ZZ-ZZ-R23-S-1000&lt;/span&gt;" vertex="1">
+        <mxCell id="hJ8PBZIhY1m3eom2ijDv-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=default;" value="&lt;div style=&quot;font-family: Montserrat; font-size: 10px;&quot;&gt;KẾT CẤU - TOÀN KHU&lt;/div&gt;&lt;div style=&quot;font-family: Montserrat; font-size: 10px;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;STRUCTURE - OVERALL&lt;/span&gt;&lt;/div&gt;&lt;font face=&quot;Montserrat&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;CLLA-ZZZ-ZZ-ZZ-R23-S-1000&lt;/span&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="40" width="240" x="120" y="760" as="geometry" />
         </mxCell>
-        <mxCell id="hJ8PBZIhY1m3eom2ijDv-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=default;" value="&lt;div style=&quot;font-family: Montserrat; font-size: 10px;&quot;&gt;MEPF&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;- OVERALL&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-family: Montserrat; font-size: 10px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;TCMD-ZZZ-ZZ-ZZ-R23-Z-1000&lt;/span&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="hJ8PBZIhY1m3eom2ijDv-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=default;" value="&lt;div style=&quot;font-family: Montserrat; font-size: 10px;&quot;&gt;MEPF&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;- OVERALL&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px; font-family: Montserrat;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;CLLA-ZZZ-ZZ-ZZ-R23-Z-1000&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="240" x="120" y="820" as="geometry" />
         </mxCell>
         <mxCell id="hJ8PBZIhY1m3eom2ijDv-15" edge="1" parent="1" source="hJ8PBZIhY1m3eom2ijDv-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#B5739D;endArrow=oval;endFill=1;startArrow=oval;startFill=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;">
