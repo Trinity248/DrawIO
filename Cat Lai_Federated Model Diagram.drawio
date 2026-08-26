@@ -12,7 +12,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="TrzF5k7z9yYRjgXl_o8y-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE599;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=10;" value="&lt;div&gt;KIẾN TRÚC - HẦM&lt;/div&gt;&lt;div&gt;ARCHITECTURE - BASEMENT&lt;/div&gt;TCMD-MHA-BA-ZZ-R23-A-1000" vertex="1">
+        <mxCell id="TrzF5k7z9yYRjgXl_o8y-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE599;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=10;" value="&lt;div&gt;KIẾN TRÚC - HẦM&lt;/div&gt;&lt;div&gt;ARCHITECTURE - BASEMENT&lt;/div&gt;XXXX-MHA-BA-ZZ-R23-A-1000" vertex="1">
           <mxGeometry height="40" width="240" x="120" y="120" as="geometry" />
         </mxCell>
         <mxCell id="TrzF5k7z9yYRjgXl_o8y-31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE599;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=10;" value="&lt;div&gt;KIẾN TRÚC - ĐẾ&lt;/div&gt;&lt;div&gt;ARCHITECTURE - PODIUM&lt;/div&gt;TCMD-MHA-PO-ZZ-R23-A-1000" vertex="1">
@@ -295,7 +295,7 @@
             <mxPoint x="100" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="V38tE1Ws2DvD1zi-VZIU-51" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE599;dashed=1;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=10;" value="&lt;div&gt;&lt;font&gt;KIẾN TRÚC - TỔNG HỢP&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;ARCHITECTURE - COMBINE&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;XXXX-MHA-ZZ-ZZ-CM-A-1000&lt;/font&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="V38tE1Ws2DvD1zi-VZIU-51" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE599;dashed=1;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=10;" value="&lt;div&gt;&lt;font&gt;KIẾN TRÚC - TỔNG HỢP&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;ARCHITECTURE - COMBINE&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;CLLA-MHA-ZZ-ZZ-CM-A-1000&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="240" x="120" y="20" as="geometry" />
         </mxCell>
         <mxCell id="V38tE1Ws2DvD1zi-VZIU-54" edge="1" parent="1" style="endArrow=doubleBlock;startArrow=doubleBlock;html=1;rounded=0;endFill=1;startFill=1;strokeColor=#7EA6E0;" value="">
