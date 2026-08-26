@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="tyR3ZQhP4Eu5VgwBQBes">
-    <mxGraphModel dx="2571" dy="1365" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="808" dy="429" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -295,7 +295,7 @@
             <mxPoint x="100" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="V38tE1Ws2DvD1zi-VZIU-51" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE599;dashed=1;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=10;" value="&lt;div&gt;&lt;font&gt;KIẾN TRÚC - TỔNG HỢP&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;ARCHITECTURE - COMBINE&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;TCMD-MHA-ZZ-ZZ-CM-A-1000&lt;/font&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="V38tE1Ws2DvD1zi-VZIU-51" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE599;dashed=1;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=10;" value="&lt;div&gt;&lt;font&gt;KIẾN TRÚC - TỔNG HỢP&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;ARCHITECTURE - COMBINE&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;XXXX-MHA-ZZ-ZZ-CM-A-1000&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="240" x="120" y="20" as="geometry" />
         </mxCell>
         <mxCell id="V38tE1Ws2DvD1zi-VZIU-54" edge="1" parent="1" style="endArrow=doubleBlock;startArrow=doubleBlock;html=1;rounded=0;endFill=1;startFill=1;strokeColor=#7EA6E0;" value="">
